@@ -1,5 +1,13 @@
 <application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1684390811786" />
+  </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="This sample demonstrates how to do common operations in temporary signature way on OBS using the OBS SDK for .NET." />
+    </histories>
   </component>
 </application>
