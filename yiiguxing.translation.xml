@@ -10,6 +10,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="The non-public property 'ApplicantAttachments' on type 'iPlatformExtension.Model.Dto.TrademarkDelivery.TrademarkRegistrationOrder' is annotated with 'JsonIncludeAttribute' which is invalid." />
       <item value="The state to use as the underlying Task&lt;TResult&gt;'s AsyncState." />
       <item value="Gets a user-defined object that qualifies or contains information about an asynchronous operation." />
       <item value="This sample demonstrates how to do common operations in temporary signature way on OBS using the OBS SDK for .NET." />
