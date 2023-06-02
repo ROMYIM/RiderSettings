@@ -2,6 +2,7 @@
   <component name="DatabaseSettings" version="9">
     <option name="page-size" value="200" />
     <option name="page-size-updated-timestamp" value="1684398989256" />
+    <option name="ddl-editor-confirm-loss" value="false" />
     <text-mode>
       <parameter-patterns>
         <parameter-pattern value="#(\w+)#" in-scripts="true" scope="XML" predefined="#name#" />
