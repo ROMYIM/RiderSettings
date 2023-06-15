@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684390811786" />
+    <option name="lastTrimTime" value="1686812568554" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -10,6 +10,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="Represents an immutable, unordered collection of keys and values." />
       <item value="解密" />
       <item value="The non-public property 'ApplicantAttachments' on type 'iPlatformExtension.Model.Dto.TrademarkDelivery.TrademarkRegistrationOrder' is annotated with 'JsonIncludeAttribute' which is invalid." />
       <item value="The state to use as the underlying Task&lt;TResult&gt;'s AsyncState." />
@@ -19,6 +20,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="1" />
       </map>
     </option>
   </component>
