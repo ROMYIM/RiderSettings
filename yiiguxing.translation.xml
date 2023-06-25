@@ -10,6 +10,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="The route template 'CaseNice' on the action named 'GetCaseNiceCategoriesAsync' on the controller named 'Trademark' cannot begin with a forward slash." />
       <item value="Represents an immutable, unordered collection of keys and values." />
       <item value="解密" />
       <item value="The non-public property 'ApplicantAttachments' on type 'iPlatformExtension.Model.Dto.TrademarkDelivery.TrademarkRegistrationOrder' is annotated with 'JsonIncludeAttribute' which is invalid." />
