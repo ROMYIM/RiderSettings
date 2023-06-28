@@ -10,6 +10,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="Gets or sets value indicating the minimum level of messages that would get written to &lt;c&gt;Console.Error&lt;c&gt;." />
       <item value="The URI for a claim that specifies the SID for the group of an entity," />
       <item value="The route template 'CaseNice' on the action named 'GetCaseNiceCategoriesAsync' on the controller named 'Trademark' cannot begin with a forward slash." />
       <item value="Represents an immutable, unordered collection of keys and values." />
@@ -22,7 +23,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
