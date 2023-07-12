@@ -6,10 +6,11 @@
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="Closes the connection to the database. This is the preferred method of closing any open connection." />
       <item value="Determines whether an instance of a specified type c can be assigned to a variable of the current type." />
       <item value="Gets or sets value indicating the minimum level of messages that would get written to &lt;c&gt;Console.Error&lt;c&gt;." />
       <item value="The URI for a claim that specifies the SID for the group of an entity," />
@@ -23,7 +24,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
+        <entry key="CHINESE" value="5" />
         <entry key="ENGLISH" value="2" />
       </map>
     </option>
