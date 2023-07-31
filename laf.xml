@@ -1,6 +1,6 @@
 <application>
   <component name="LafManager" autodetect="false">
-    <laf class-name="com.intellij.ide.ui.laf.IntelliJLaf" themeId="ExperimentalLight" />
+    <laf class-name="com.intellij.ide.ui.laf.IntelliJLaf" themeId="RiderDay" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="High contrast" scheme="_@user_High contrast" />
       <laf-to-scheme laf="Light" scheme="_@user_Light" />
