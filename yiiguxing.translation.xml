@@ -1,15 +1,22 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684390811786" />
+    <option name="lastTrimTime" value="1687834941347" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="Closes the connection to the database. This is the preferred method of closing any open connection." />
+      <item value="Determines whether an instance of a specified type c can be assigned to a variable of the current type." />
+      <item value="Gets or sets value indicating the minimum level of messages that would get written to &lt;c&gt;Console.Error&lt;c&gt;." />
+      <item value="The URI for a claim that specifies the SID for the group of an entity," />
+      <item value="The route template 'CaseNice' on the action named 'GetCaseNiceCategoriesAsync' on the controller named 'Trademark' cannot begin with a forward slash." />
+      <item value="Represents an immutable, unordered collection of keys and values." />
+      <item value="解密" />
       <item value="The non-public property 'ApplicantAttachments' on type 'iPlatformExtension.Model.Dto.TrademarkDelivery.TrademarkRegistrationOrder' is annotated with 'JsonIncludeAttribute' which is invalid." />
       <item value="The state to use as the underlying Task&lt;TResult&gt;'s AsyncState." />
       <item value="Gets a user-defined object that qualifies or contains information about an asynchronous operation." />
@@ -17,7 +24,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
