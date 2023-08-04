@@ -9,6 +9,7 @@
         </entry>
       </map>
     </option>
+    <option name="dataUpdateIntervalMillis" value="-1" />
     <option name="selectedConnectionId" value="Kafka@KafkaConnections@8504686534461587237" />
   </component>
 </application>
