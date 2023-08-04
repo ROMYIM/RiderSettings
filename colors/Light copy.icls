@@ -1,12 +1,15 @@
-<scheme name="_@user_Light copy1" version="142" parent_scheme="Default">
+<scheme name="Light copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-10-18T11:37:01</property>
+    <property name="created">2023-08-03T10:39:39</property>
+    <property name="description">Rider C# 代码风格方案</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2022.3.0.0</property>
+    <property name="ideVersion">2023.2.0.0</property>
     <property name="modified">2023-08-04T09:16:14</property>
-    <property name="originalScheme">Light</property>
-    <property name="partialSave">true</property>
+    <property name="vendorMail">15818132731@163.com</property>
+    <property name="vendorName">RomYimRiderC#Scheme</property>
+    <property name="vendorUrl">http://</property>
+    <property name="version">1.0</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
