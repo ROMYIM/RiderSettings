@@ -6,7 +6,6 @@
       <debugger id="dotnet_debugger">
         <configuration>
           <option name="automaticallyRefreshWatches" value="true" />
-          <option name="ignorePrecompiledAssemblies" value="true" />
         </configuration>
       </debugger>
       <debugger id="ObjectiveC">
