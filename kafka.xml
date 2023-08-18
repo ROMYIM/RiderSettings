@@ -7,8 +7,13 @@
             <KafkaClusterConfig />
           </value>
         </entry>
+        <entry key="Kafka@KafkaConnections@7353705558230100199">
+          <value>
+            <KafkaClusterConfig />
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="selectedConnectionId" value="Kafka@KafkaConnections@5338250990967877644" />
+    <option name="selectedConnectionId" value="Kafka@KafkaConnections@7353705558230100199" />
   </component>
 </application>
