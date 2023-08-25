@@ -1,0 +1,44 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+    <option name="overrideLafFontsWasMigrated" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "Debug.Allow.Typing": "true",
+    "RD.Init.Cfg.2": "true",
+    "RD.Init.DialogShown.Ide": "true",
+    "Rider.Last.Observed.New.UI.State": "true",
+    "Rider.Last.Started.IDE.Build": "RD-232.9559.61",
+    "bundled.plugins.list.saved.version": "RD-232.9559.61",
+    "evlsprt3.232": "24",
+    "experimental.ui.used.version": "232.9559.61",
+    "experimentalFeature.editor.reader.mode": "false",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "14.0",
+    "fontSizeToResetEditor": "14.0",
+    "ignoreUltimateEdition": "true",
+    "previousColorScheme": "_@user_Light copy1",
+    "tasks.pass.word.conversion.enforced": "true",
+    "toolwindow.stripes.buttons.info.shown": "true"
+  },
+  "keyToStringList": {
+    "com.jetbrains.rider.afterInstall.statsReportedBuilds": [
+      "RD-232.9559.61"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>
