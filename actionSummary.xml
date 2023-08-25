@@ -1,0 +1,16 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="RiderNewSolution">
+      <i c="1" l="1692929814556" />
+    </e>
+    <e n="RiderOpenSolution">
+      <i c="1" l="1692929821908" />
+    </e>
+    <e n="cn.yiiguxing.plugin.translate.util.Notifications$DoNotShowAgainAction">
+      <i c="1" l="1692929862693" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1692929865301" />
+    </e>
+  </component>
+</application>

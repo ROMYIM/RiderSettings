@@ -1,0 +1,128 @@
+<application>
+  <component name="RiderPerAppToolWindowLayoutV2"><![CDATA[{
+  "layouts": {
+    "Custom": {
+      "v2": [
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isVisible": true,
+          "weight": 0.25036126,
+          "sideWeight": 0.50053996
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "weight": 0.25
+        },
+        {
+          "id": "Azure Explorer",
+          "order": 2
+        },
+        {
+          "id": "Structure",
+          "order": 2,
+          "isVisible": true,
+          "weight": 0.25036126,
+          "sideWeight": 0.49946004,
+          "isSplit": true
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "KafkaToolWindow",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Logcat",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Notifications",
+          "order": 0,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "AIAssistant",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Database",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Gradle",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Translation.Wordbook",
+          "order": 4,
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "Maven",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Json Parser",
+          "order": 4,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Kafkalytic",
+          "order": 4,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Device Manager",
+          "order": 4,
+          "anchor": "RIGHT"
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.25036126,
+        "bottom": 0.33,
+        "right": 0.33
+      }
+    }
+  }
+}]]></component>
+</application>
