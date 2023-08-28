@@ -49,7 +49,7 @@
       <i c="1" l="1693201345150" />
     </e>
     <e n="EditorBackSpace">
-      <i c="509" l="1693209473639" />
+      <i c="518" l="1693209817264" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="301" l="1693209630032" />
@@ -73,7 +73,7 @@
       <i c="5" l="1693207938590" />
     </e>
     <e n="EditorPaste">
-      <i c="37" l="1693209642241" />
+      <i c="39" l="1693209900137" />
     </e>
     <e n="EditorRight">
       <i c="36" l="1693209632113" />
@@ -81,8 +81,11 @@
     <e n="EditorUp">
       <i c="17" l="1693209131569" />
     </e>
+    <e n="Find">
+      <i c="2" l="1693209895002" />
+    </e>
     <e n="FindInSolutionView">
-      <i c="1" l="1692930141645" />
+      <i c="2" l="1693209788034" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
       <i c="14" l="1693206356755" />
@@ -97,7 +100,7 @@
       <i c="2" l="1693185452178" />
     </e>
     <e n="GotoDeclaration">
-      <i c="82" l="1693209151993" />
+      <i c="84" l="1693209852617" />
     </e>
     <e n="GotoLine">
       <i c="1" l="1692934514833" />
@@ -110,6 +113,9 @@
     </e>
     <e n="NextTemplateVariable">
       <i c="15" l="1693207958208" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1693209741402" />
     </e>
     <e n="RecentFiles">
       <i c="3" l="1693206679939" />
@@ -189,8 +195,17 @@
     <e n="com.intellij.execution.ui.layout.impl.RunnerContentUi$ToggleSeparateWatches">
       <i c="1" l="1693205342767" />
     </e>
+    <e n="com.intellij.find.EditorSearchSession$4">
+      <i c="1" l="1693209896680" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.ToggleSelectionOnlyAction">
+      <i c="1" l="1693209897978" />
+    </e>
     <e n="com.intellij.httpClient.http.request.run.v2.HttpRequestRunSplitButtonOnGutterAction">
       <i c="7" l="1693206244363" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1693209934139" />
     </e>
     <e n="com.intellij.ide.actions.CollapseAllAction">
       <i c="1" l="1692950746343" />
@@ -211,7 +226,7 @@
       <i c="1" l="1693189150853" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="84" l="1693209235296" />
+      <i c="85" l="1693209935049" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="2" l="1692932448811" />
@@ -220,7 +235,7 @@
       <i c="1" l="1693205158742" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="13" l="1693208692025" />
+      <i c="14" l="1693209850104" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
       <i c="2" l="1693203461939" />
@@ -235,7 +250,7 @@
       <i c="6" l="1693206766128" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
-      <i c="83" l="1693209151633" />
+      <i c="85" l="1693209852385" />
     </e>
     <e n="com.jetbrains.rider.debugger.components.RiderPaneWithTitle$getActionGroup$1">
       <i c="1" l="1693208724776" />
@@ -248,6 +263,9 @@
     </e>
     <e n="com.jetbrains.rider.projectView.actions.newFile.RiderNewMultiFileFromTemplateAction">
       <i c="2" l="1693208159148" />
+    </e>
+    <e n="com.jetbrains.rider.projectView.views.search.SolutionSearchView$MyNextOccurrenceAction">
+      <i c="2" l="1693209805313" />
     </e>
   </component>
 </application>

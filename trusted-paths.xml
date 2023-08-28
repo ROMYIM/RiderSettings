@@ -2,8 +2,10 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
+        <entry key="E:\Repositories\iPlatform" value="true" />
         <entry key="E:\Repositories\iPlatformExtension" value="true" />
         <entry key="E:\Repositories\iPlatformExtension\.idea\.idea.iPlatformExtension" value="true" />
+        <entry key="E:\Repositories\iPlatform\.idea\.idea.iPlatformV1.0" value="true" />
       </map>
     </option>
   </component>
