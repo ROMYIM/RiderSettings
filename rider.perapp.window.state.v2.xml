@@ -25,7 +25,7 @@
           "order": 0,
           "contentUiType": "COMBO",
           "isVisible": true,
-          "weight": 0.1341146,
+          "weight": 0.16015625,
           "sideWeight": 0.5005133
         },
         {
@@ -69,7 +69,6 @@
         {
           "id": "Unit Tests",
           "anchor": "BOTTOM",
-          "isVisible": true,
           "weight": 0.30571705
         },
         {
@@ -121,6 +120,7 @@
           "id": "Debug",
           "order": 4,
           "anchor": "BOTTOM",
+          "isVisible": true,
           "weight": 0.30571705
         },
         {
@@ -132,7 +132,7 @@
           "id": "Services",
           "order": 4,
           "anchor": "BOTTOM",
-          "weight": 0.32994187
+          "weight": 0.30571705
         },
         {
           "id": "Unit Tests Coverage",
@@ -221,7 +221,7 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.1341146,
+        "left": 0.16015625,
         "bottom": 0.30571705,
         "right": 0.16796875
       }
