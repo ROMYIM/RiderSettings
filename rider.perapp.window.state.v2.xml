@@ -7,14 +7,14 @@
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.1861979,
           "sideWeight": 0.5005133
         },
         {
           "id": "Commit",
           "order": 1,
+          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.1861979
         },
         {
