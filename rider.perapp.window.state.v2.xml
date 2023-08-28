@@ -7,31 +7,34 @@
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
+          "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.25036126,
-          "sideWeight": 0.50053996
+          "weight": 0.1861979,
+          "sideWeight": 0.5005133
         },
         {
           "id": "Commit",
           "order": 1,
-          "weight": 0.25
+          "weight": 0.1861979
+        },
+        {
+          "id": "Database",
+          "order": 3,
+          "weight": 0.1861979,
+          "sideWeight": 0.5005133
         },
         {
           "id": "Azure Explorer",
-          "order": 2
-        },
-        {
-          "id": "Structure",
-          "order": 2,
-          "isVisible": true,
-          "weight": 0.25036126,
-          "sideWeight": 0.49946004,
+          "order": 4,
+          "weight": 0.16848958,
+          "sideWeight": 0.49948665,
           "isSplit": true
         },
         {
           "id": "Version Control",
           "order": 0,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.32994187
         },
         {
           "id": "Problems",
@@ -41,12 +44,14 @@
         {
           "id": "Problems View",
           "order": 2,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.32994187
         },
         {
           "id": "Terminal",
           "order": 3,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.32994187
         },
         {
           "id": "KafkaToolWindow",
@@ -56,12 +61,14 @@
         {
           "id": "Logcat",
           "order": 4,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.32994187
         },
         {
           "id": "Services",
           "order": 4,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.32994187
         },
         {
           "id": "Notifications",
@@ -77,50 +84,52 @@
           "weight": 0.25
         },
         {
-          "id": "Database",
-          "order": 2,
-          "anchor": "RIGHT",
-          "weight": 0.25
-        },
-        {
           "id": "Gradle",
           "order": 3,
           "anchor": "RIGHT",
           "weight": 0.25
         },
         {
-          "id": "Translation.Wordbook",
+          "id": "Structure",
           "order": 4,
+          "anchor": "RIGHT",
+          "isVisible": true,
+          "weight": 0.14609376,
+          "sideWeight": 0.49948665
+        },
+        {
+          "id": "Translation.Wordbook",
+          "order": 5,
           "anchor": "RIGHT",
           "isSplit": true
         },
         {
           "id": "Maven",
-          "order": 4,
+          "order": 5,
           "anchor": "RIGHT",
           "weight": 0.25
         },
         {
           "id": "Json Parser",
-          "order": 4,
+          "order": 5,
           "anchor": "RIGHT"
         },
         {
           "id": "Kafkalytic",
-          "order": 4,
+          "order": 5,
           "anchor": "RIGHT"
         },
         {
           "id": "Device Manager",
-          "order": 4,
+          "order": 5,
           "anchor": "RIGHT"
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.25036126,
-        "bottom": 0.33,
-        "right": 0.33
+        "left": 0.1861979,
+        "bottom": 0.32994187,
+        "right": 0.14609376
       }
     }
   }

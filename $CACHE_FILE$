@@ -1,4 +1,14 @@
 <application>
+  <component name="EventLogWhitelist">
+    <update recorder-id="FUS" last-modified="0" />
+    <options recorder-id="FUS">
+      <option name="id_salt" value="" />
+      <option name="groupAlertThreshold" value="6000" />
+      <option name="dataThreshold" value="15000" />
+      <option name="groupDataThreshold" value="10000" />
+      <option name="id_salt_revision" value="0" />
+    </options>
+  </component>
   <component name="ExtensionsRootType">
     <pluginVersions>
       <plugin id="com.intellij.database" version="RD-232.9559.61" />
@@ -20153,7 +20163,8 @@
           }
         ]
       }
-    }
+    },
+    "lastUpdateTime": 1692929998542
   },
   "dependencies": {
     "featureMap": {
@@ -22081,7 +22092,398 @@
           }
         }
       }
+    },
+    "com.intellij.configurationType": {
+      "featureMap": {
+        "CompoundRunConfigurationType": {
+          "displayName": "Compound",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "RiderUnitTests": {
+          "displayName": "Unit Tests",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "IisApplication": {
+          "displayName": "IIS Application",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "XamarinIOSProject": {
+          "displayName": "Xamarin.iOS",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "XamarinMacProject": {
+          "displayName": "Xamarin.Mac",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "UwpProject": {
+          "displayName": "UWP",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "RunNativeExe": {
+          "displayName": "Native Executable",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "RunExe": {
+          "displayName": ".NET Executable",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "LaunchSettings": {
+          "displayName": ".NET Launch Settings Profile",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "DotNetProject": {
+          "displayName": ".NET Project",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "ConnectRemote": {
+          "displayName": "Mono Remote",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "DotNetMsBuildPublish": {
+          "displayName": "Publish to IIS",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "DotNetFolderPublish": {
+          "displayName": "Publish to folder",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "DotNetStaticMethod": {
+          "displayName": ".NET Static Method",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        },
+        "ShConfigurationType": {
+          "displayName": "Shell Script",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.sh",
+            "nullablePluginName": "Shell Script",
+            "isBundled": true
+          }
+        },
+        "DotNetPublishAndUpload": {
+          "displayName": "Publish to custom server",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.rider.publish.webDeploy",
+            "nullablePluginName": "Support for publishing to custom servers",
+            "isBundled": true
+          }
+        },
+        "XamarinAndroidProject": {
+          "displayName": "Xamarin.Android",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.rider.android",
+            "nullablePluginName": "Rider Xamarin Android Support"
+          }
+        },
+        "CppProject": {
+          "displayName": "C++ Project",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.rider-cpp",
+            "nullablePluginName": "Support for C++ Language",
+            "isBundled": true
+          }
+        },
+        "Uproject": {
+          "displayName": "Uproject",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.rider-cpp",
+            "nullablePluginName": "Support for C++ Language",
+            "isBundled": true
+          }
+        },
+        "RiderCppCoreDump": {
+          "displayName": "Native Core Dump Debug",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.rider-cpp",
+            "nullablePluginName": "Support for C++ Language",
+            "isBundled": true
+          }
+        },
+        "HttpClient.HttpRequestRunConfigurationType": {
+          "displayName": "HTTP Request",
+          "pluginData": {
+            "pluginIdString": "com.jetbrains.restClient",
+            "nullablePluginName": "HTTP Client",
+            "isBundled": true
+          }
+        },
+        "SwaggerCodegen": {
+          "displayName": "OpenAPI/Swagger Code Generator",
+          "pluginData": {
+            "pluginIdString": "com.intellij.swagger",
+            "nullablePluginName": "OpenAPI Specifications",
+            "isBundled": true
+          }
+        },
+        "XSLT": {
+          "displayName": "XSLT",
+          "pluginData": {
+            "pluginIdString": "XPathView",
+            "nullablePluginName": "XPathView + XSLT",
+            "isBundled": true
+          }
+        },
+        "JavaScriptTestRunnerJest": {
+          "displayName": "Jest",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "JavaScriptTestRunnerVitest": {
+          "displayName": "Vitest",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "JavaScriptTestRunnerProtractor": {
+          "displayName": "Protractor",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "js.build_tools.grunt": {
+          "displayName": "Grunt.js",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "js.build_tools.gulp": {
+          "displayName": "Gulp.js",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "js.build_tools.npm": {
+          "displayName": "npm",
+          "pluginData": {
+            "pluginIdString": "JavaScript",
+            "nullablePluginName": "JavaScript and TypeScript",
+            "isBundled": true
+          }
+        },
+        "NodeWebKit": {
+          "displayName": "NW.js",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "ChromiumRemoteDebugType": {
+          "displayName": "Attach to Node.js/Chrome",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "FirefoxRemoteDebugType": {
+          "displayName": "Firefox Remote",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "ReactNative": {
+          "displayName": "React Native",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "JavascriptDebugType": {
+          "displayName": "JavaScript Debug",
+          "pluginData": {
+            "pluginIdString": "JavaScriptDebugger",
+            "nullablePluginName": "JavaScript Debugger",
+            "isBundled": true
+          }
+        },
+        "DatabaseScript": {
+          "displayName": "Database Script",
+          "pluginData": {
+            "pluginIdString": "com.intellij.database",
+            "nullablePluginName": "Database Tools and SQL",
+            "isBundled": true
+          }
+        },
+        "TSqltConfigurationType": {
+          "displayName": "tSQLt Test",
+          "pluginData": {
+            "pluginIdString": "com.intellij.database",
+            "nullablePluginName": "Database Tools and SQL",
+            "isBundled": true
+          }
+        },
+        "UtPlSqlConfigurationType": {
+          "displayName": "utPLSQL Test",
+          "pluginData": {
+            "pluginIdString": "com.intellij.database",
+            "nullablePluginName": "Database Tools and SQL",
+            "isBundled": true
+          }
+        },
+        "NodeJSConfigurationType": {
+          "displayName": "Node.js",
+          "pluginData": {
+            "pluginIdString": "NodeJS",
+            "nullablePluginName": "Node.js",
+            "isBundled": true
+          }
+        },
+        "NodeunitConfigurationType": {
+          "displayName": "Nodeunit",
+          "pluginData": {
+            "pluginIdString": "NodeJS",
+            "nullablePluginName": "Node.js",
+            "isBundled": true
+          }
+        },
+        "mocha-javascript-test-runner": {
+          "displayName": "Mocha",
+          "pluginData": {
+            "pluginIdString": "NodeJS",
+            "nullablePluginName": "Node.js",
+            "isBundled": true
+          }
+        },
+        "JavaScriptTestRunnerKarma": {
+          "displayName": "Karma",
+          "pluginData": {
+            "pluginIdString": "Karma",
+            "nullablePluginName": "Karma",
+            "isBundled": true
+          }
+        },
+        "AzureDotNetWebAppPublish": {
+          "displayName": "Azure - Publish Web App",
+          "pluginData": {
+            "pluginIdString": "com.intellij.resharper.azure",
+            "nullablePluginName": "Azure Toolkit for Rider"
+          }
+        },
+        "AzureFunctionAppPublish": {
+          "displayName": "Azure - Publish Function App",
+          "pluginData": {
+            "pluginIdString": "com.intellij.resharper.azure",
+            "nullablePluginName": "Azure Toolkit for Rider"
+          }
+        },
+        "AzureFunctionsHost": {
+          "displayName": "Azure Functions host",
+          "pluginData": {
+            "pluginIdString": "com.intellij.resharper.azure",
+            "nullablePluginName": "Azure Toolkit for Rider"
+          }
+        },
+        "UNITY_DEBUG_RUN_CONFIGURATION": {
+          "displayName": "Attach to Unity Editor",
+          "pluginData": {
+            "pluginIdString": "com.intellij.resharper.unity",
+            "nullablePluginName": "Unity Support",
+            "isBundled": true
+          }
+        },
+        "UnityPlayer": {
+          "displayName": "Attach to Unity Player",
+          "pluginData": {
+            "pluginIdString": "com.intellij.resharper.unity",
+            "nullablePluginName": "Unity Support",
+            "isBundled": true
+          }
+        },
+        "RunUnityExe": {
+          "displayName": "Standalone Player",
+          "pluginData": {
+            "pluginIdString": "com.intellij.resharper.unity",
+            "nullablePluginName": "Unity Support",
+            "isBundled": true
+          }
+        },
+        "docker-deploy": {
+          "displayName": "Docker",
+          "pluginData": {
+            "pluginIdString": "com.intellij",
+            "nullablePluginName": "IDEA CORE",
+            "isBundled": true
+          }
+        }
+      }
     }
   }
 }]]></component>
+  <component name="editorConfigEncodings">
+    <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Applications/Queries/Team/TeamCustomerPageQuery.cs" charset="utf-8-bom" />
+    <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Applications/Models/Team/TeamCustomerPageDto.cs" charset="utf-8-bom" />
+    <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Infrastructure/Authorization" charset="utf-8-bom" />
+    <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Infrastructure/Validators/DeliveryResultValidator.cs" charset="utf-8-bom" />
+    <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Applications/Handlers/Team/TeamCustomerPageQueryHandler.cs" charset="utf-8-bom" />
+  </component>
 </application>
