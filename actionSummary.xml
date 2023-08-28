@@ -46,10 +46,10 @@
       <i c="1" l="1693189111243" />
     </e>
     <e n="EditorBackSpace">
-      <i c="334" l="1693192076479" />
+      <i c="347" l="1693193067853" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="180" l="1693191917205" />
+      <i c="183" l="1693193075366" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="4" l="1692952027260" />
@@ -70,7 +70,7 @@
       <i c="4" l="1692948928351" />
     </e>
     <e n="EditorPaste">
-      <i c="16" l="1693189368072" />
+      <i c="18" l="1693192349271" />
     </e>
     <e n="EditorRight">
       <i c="23" l="1693191924303" />
@@ -94,7 +94,7 @@
       <i c="2" l="1693185452178" />
     </e>
     <e n="GotoDeclaration">
-      <i c="46" l="1693190290016" />
+      <i c="49" l="1693193101156" />
     </e>
     <e n="GotoLine">
       <i c="1" l="1692934514833" />
@@ -121,7 +121,7 @@
       <i c="1" l="1692929821908" />
     </e>
     <e n="SaveDocument">
-      <i c="34" l="1693190408842" />
+      <i c="37" l="1693193075948" />
     </e>
     <e n="SearchEverywhere">
       <i c="1" l="1693187169435" />
@@ -181,7 +181,7 @@
       <i c="1" l="1693189150853" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="61" l="1693192058717" />
+      <i c="62" l="1693192284968" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="2" l="1692932448811" />
@@ -196,7 +196,7 @@
       <i c="1" l="1692941906083" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
-      <i c="46" l="1693190289809" />
+      <i c="49" l="1693193100744" />
     </e>
     <e n="com.jetbrains.rider.intentions.gutterWrappers.BackendGutterMarkWrapper$getClickAction$1">
       <i c="4" l="1692954138735" />
