@@ -4,25 +4,28 @@
       <i c="2" l="1693185671713" />
     </e>
     <e n="$Delete">
-      <i c="1" l="1693187694651" />
+      <i c="2" l="1693215252486" />
     </e>
     <e n="$SelectAll">
       <i c="3" l="1692946636376" />
     </e>
     <e n="$Undo">
-      <i c="18" l="1693203748971" />
+      <i c="23" l="1693216692812" />
     </e>
     <e n="Back">
-      <i c="56" l="1693213940066" />
+      <i c="60" l="1693216640685" />
     </e>
     <e n="ChangesView.Revert">
       <i c="1" l="1692948804688" />
     </e>
+    <e n="ChangesView.ShelveSilently">
+      <i c="1" l="1693214863336" />
+    </e>
     <e n="CollapseAll">
-      <i c="6" l="1693212935606" />
+      <i c="7" l="1693216381259" />
     </e>
     <e n="CommentByLineComment">
-      <i c="1" l="1693212322993" />
+      <i c="3" l="1693217310236" />
     </e>
     <e n="Console.Jdbc.Execute">
       <i c="2" l="1692946640799" />
@@ -52,37 +55,37 @@
       <i c="1" l="1693201345150" />
     </e>
     <e n="EditorBackSpace">
-      <i c="527" l="1693213723664" />
+      <i c="568" l="1693216753969" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="311" l="1693214535172" />
+      <i c="348" l="1693216706710" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="6" l="1693208994585" />
     </e>
     <e n="EditorCopy">
-      <i c="20" l="1693214710393" />
+      <i c="29" l="1693216559963" />
     </e>
     <e n="EditorCut">
       <i c="9" l="1693213668028" />
     </e>
     <e n="EditorDown">
-      <i c="306" l="1693214534664" />
+      <i c="343" l="1693216706436" />
     </e>
     <e n="EditorEnter">
-      <i c="104" l="1693213684992" />
+      <i c="114" l="1693216725676" />
     </e>
     <e n="EditorLeft">
-      <i c="6" l="1693214525116" />
+      <i c="7" l="1693215529618" />
     </e>
     <e n="EditorPaste">
-      <i c="43" l="1693214422785" />
+      <i c="55" l="1693216561075" />
     </e>
     <e n="EditorRight">
-      <i c="36" l="1693209632113" />
+      <i c="42" l="1693216571551" />
     </e>
     <e n="EditorUp">
-      <i c="17" l="1693209131569" />
+      <i c="20" l="1693215446982" />
     </e>
     <e n="Find">
       <i c="2" l="1693209895002" />
@@ -91,10 +94,10 @@
       <i c="2" l="1693209788034" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="14" l="1693206356755" />
+      <i c="15" l="1693215567707" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="9" l="1693190981190" />
+      <i c="11" l="1693215980265" />
     </e>
     <e n="GitMergeBranchAction">
       <i c="4" l="1693189565078" />
@@ -103,7 +106,7 @@
       <i c="2" l="1693185452178" />
     </e>
     <e n="GotoDeclaration">
-      <i c="96" l="1693214680670" />
+      <i c="104" l="1693216636694" />
     </e>
     <e n="GotoLine">
       <i c="1" l="1692934514833" />
@@ -115,13 +118,13 @@
       <i c="1" l="1692946398894" />
     </e>
     <e n="NextTemplateVariable">
-      <i c="15" l="1693207958208" />
+      <i c="17" l="1693216540445" />
     </e>
     <e n="OpenFile">
       <i c="1" l="1693209741402" />
     </e>
     <e n="RecentFiles">
-      <i c="4" l="1693213077302" />
+      <i c="5" l="1693217225431" />
     </e>
     <e n="RenameElement">
       <i c="2" l="1693202030072" />
@@ -139,13 +142,19 @@
       <i c="1" l="1692929821908" />
     </e>
     <e n="SaveDocument">
-      <i c="71" l="1693214536424" />
+      <i c="81" l="1693216761021" />
     </e>
     <e n="SearchEverywhere">
       <i c="3" l="1693204272065" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="1" l="1692931701380" />
+    </e>
+    <e n="ShelveChanges.UnshelveWithDialog">
+      <i c="1" l="1693215987228" />
+    </e>
+    <e n="ShelvedChanges.Rename">
+      <i c="1" l="1693214868452" />
     </e>
     <e n="ShowSettings">
       <i c="1" l="1692931702710" />
@@ -157,13 +166,13 @@
       <i c="171" l="1693214651769" />
     </e>
     <e n="Stop">
-      <i c="11" l="1693214521585" />
+      <i c="12" l="1693214836809" />
     </e>
     <e n="TabList">
       <i c="3" l="1693213074821" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="18" l="1693214296791" />
+      <i c="19" l="1693217316857" />
     </e>
     <e n="Tree-selectChild">
       <i c="2" l="1693209478640" />
@@ -223,7 +232,7 @@
       <i c="3" l="1692954361074" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="10" l="1693212220508" />
+      <i c="14" l="1693216147314" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="6" l="1693214522357" />
@@ -232,7 +241,7 @@
       <i c="1" l="1693189150853" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="87" l="1693213189558" />
+      <i c="93" l="1693216145148" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="2" l="1692932448811" />
@@ -241,7 +250,7 @@
       <i c="2" l="1693213184407" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="15" l="1693213024470" />
+      <i c="16" l="1693214839888" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
       <i c="2" l="1693203461939" />
@@ -256,7 +265,7 @@
       <i c="8" l="1693214273513" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
-      <i c="98" l="1693214680603" />
+      <i c="107" l="1693217273310" />
     </e>
     <e n="com.jetbrains.rider.debugger.components.RiderPaneWithTitle$getActionGroup$1">
       <i c="1" l="1693208724776" />
@@ -265,10 +274,10 @@
       <i c="3" l="1693214435488" />
     </e>
     <e n="com.jetbrains.rider.intentions.gutterWrappers.BackendGutterMarkWrapper$getClickAction$1">
-      <i c="25" l="1693214293496" />
+      <i c="30" l="1693217320905" />
     </e>
     <e n="com.jetbrains.rider.projectView.actions.newFile.RiderNewMultiFileFromTemplateAction">
-      <i c="2" l="1693208159148" />
+      <i c="3" l="1693215132599" />
     </e>
     <e n="com.jetbrains.rider.projectView.views.search.SolutionSearchView$MyNextOccurrenceAction">
       <i c="2" l="1693209805313" />
