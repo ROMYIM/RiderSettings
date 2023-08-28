@@ -31,6 +31,12 @@
           "isSplit": true
         },
         {
+          "id": "Unit Tests",
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.32994187
+        },
+        {
           "id": "Version Control",
           "order": 0,
           "anchor": "BOTTOM",

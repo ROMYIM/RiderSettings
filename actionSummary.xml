@@ -13,7 +13,7 @@
       <i c="17" l="1692938332125" />
     </e>
     <e n="Back">
-      <i c="29" l="1693194281358" />
+      <i c="32" l="1693201539670" />
     </e>
     <e n="ChangesView.Revert">
       <i c="1" l="1692948804688" />
@@ -43,34 +43,37 @@
       <i c="2" l="1693185620684" />
     </e>
     <e n="Debug">
-      <i c="1" l="1693189111243" />
+      <i c="2" l="1693201365261" />
+    </e>
+    <e n="EditPropertiesAction">
+      <i c="1" l="1693201345150" />
     </e>
     <e n="EditorBackSpace">
-      <i c="352" l="1693194380248" />
+      <i c="361" l="1693201014549" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="194" l="1693194433955" />
+      <i c="213" l="1693201527477" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="4" l="1692952027260" />
     </e>
     <e n="EditorCopy">
-      <i c="8" l="1693194401052" />
+      <i c="10" l="1693201359338" />
     </e>
     <e n="EditorCut">
       <i c="7" l="1693189363688" />
     </e>
     <e n="EditorDown">
-      <i c="155" l="1693194433339" />
+      <i c="167" l="1693201526959" />
     </e>
     <e n="EditorEnter">
-      <i c="67" l="1693194422454" />
+      <i c="72" l="1693201013499" />
     </e>
     <e n="EditorLeft">
       <i c="4" l="1692948928351" />
     </e>
     <e n="EditorPaste">
-      <i c="21" l="1693194404109" />
+      <i c="22" l="1693201361948" />
     </e>
     <e n="EditorRight">
       <i c="24" l="1693194393102" />
@@ -94,7 +97,7 @@
       <i c="2" l="1693185452178" />
     </e>
     <e n="GotoDeclaration">
-      <i c="55" l="1693194194419" />
+      <i c="60" l="1693201532474" />
     </e>
     <e n="GotoLine">
       <i c="1" l="1692934514833" />
@@ -114,6 +117,12 @@
     <e n="RenameElement">
       <i c="1" l="1692954446165" />
     </e>
+    <e n="Resume">
+      <i c="2" l="1693201479358" />
+    </e>
+    <e n="RevealIn">
+      <i c="1" l="1693201296706" />
+    </e>
     <e n="RiderNewSolution">
       <i c="1" l="1692929814556" />
     </e>
@@ -121,7 +130,7 @@
       <i c="1" l="1692929821908" />
     </e>
     <e n="SaveDocument">
-      <i c="39" l="1693194436149" />
+      <i c="44" l="1693201528117" />
     </e>
     <e n="SearchEverywhere">
       <i c="1" l="1693187169435" />
@@ -132,11 +141,17 @@
     <e n="ShowSettings">
       <i c="1" l="1692931702710" />
     </e>
+    <e n="StepOver">
+      <i c="3" l="1693201401461" />
+    </e>
     <e n="Stop">
-      <i c="1" l="1693189328493" />
+      <i c="4" l="1693201380387" />
     </e>
     <e n="TabList">
       <i c="2" l="1693189141579" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="2" l="1693201715950" />
     </e>
     <e n="Vcs.Push">
       <i c="3" l="1693189615219" />
@@ -172,7 +187,7 @@
       <i c="3" l="1692954361074" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="4" l="1693187151251" />
+      <i c="5" l="1693201329236" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="4" l="1693187385815" />
@@ -196,10 +211,10 @@
       <i c="1" l="1692941906083" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
-      <i c="55" l="1693194194237" />
+      <i c="60" l="1693201532445" />
     </e>
     <e n="com.jetbrains.rider.intentions.gutterWrappers.BackendGutterMarkWrapper$getClickAction$1">
-      <i c="4" l="1692954138735" />
+      <i c="9" l="1693201723663" />
     </e>
     <e n="com.jetbrains.rider.projectView.actions.newFile.RiderNewMultiFileFromTemplateAction">
       <i c="1" l="1692935512677" />
