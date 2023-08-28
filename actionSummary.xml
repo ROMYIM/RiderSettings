@@ -13,7 +13,7 @@
       <i c="17" l="1692938332125" />
     </e>
     <e n="Back">
-      <i c="23" l="1693186610039" />
+      <i c="29" l="1693194281358" />
     </e>
     <e n="ChangesView.Revert">
       <i c="1" l="1692948804688" />
@@ -46,34 +46,34 @@
       <i c="1" l="1693189111243" />
     </e>
     <e n="EditorBackSpace">
-      <i c="347" l="1693193067853" />
+      <i c="352" l="1693194380248" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="183" l="1693193075366" />
+      <i c="194" l="1693194433955" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="4" l="1692952027260" />
     </e>
     <e n="EditorCopy">
-      <i c="5" l="1693192274305" />
+      <i c="8" l="1693194401052" />
     </e>
     <e n="EditorCut">
       <i c="7" l="1693189363688" />
     </e>
     <e n="EditorDown">
-      <i c="150" l="1693191916904" />
+      <i c="155" l="1693194433339" />
     </e>
     <e n="EditorEnter">
-      <i c="58" l="1693190403544" />
+      <i c="67" l="1693194422454" />
     </e>
     <e n="EditorLeft">
       <i c="4" l="1692948928351" />
     </e>
     <e n="EditorPaste">
-      <i c="18" l="1693192349271" />
+      <i c="21" l="1693194404109" />
     </e>
     <e n="EditorRight">
-      <i c="23" l="1693191924303" />
+      <i c="24" l="1693194393102" />
     </e>
     <e n="EditorUp">
       <i c="11" l="1692954414370" />
@@ -94,7 +94,7 @@
       <i c="2" l="1693185452178" />
     </e>
     <e n="GotoDeclaration">
-      <i c="49" l="1693193101156" />
+      <i c="55" l="1693194194419" />
     </e>
     <e n="GotoLine">
       <i c="1" l="1692934514833" />
@@ -121,7 +121,7 @@
       <i c="1" l="1692929821908" />
     </e>
     <e n="SaveDocument">
-      <i c="37" l="1693193075948" />
+      <i c="39" l="1693194436149" />
     </e>
     <e n="SearchEverywhere">
       <i c="1" l="1693187169435" />
@@ -196,7 +196,7 @@
       <i c="1" l="1692941906083" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
-      <i c="49" l="1693193100744" />
+      <i c="55" l="1693194194237" />
     </e>
     <e n="com.jetbrains.rider.intentions.gutterWrappers.BackendGutterMarkWrapper$getClickAction$1">
       <i c="4" l="1692954138735" />
