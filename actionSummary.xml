@@ -19,7 +19,7 @@
       <i c="1" l="1692948804688" />
     </e>
     <e n="CollapseAll">
-      <i c="4" l="1693192034948" />
+      <i c="5" l="1693202792192" />
     </e>
     <e n="Console.Jdbc.Execute">
       <i c="2" l="1692946640799" />
@@ -34,7 +34,7 @@
       <i c="3" l="1693192080484" />
     </e>
     <e n="DatabaseView.Ddl.AlterObject">
-      <i c="1" l="1693185505814" />
+      <i c="4" l="1693203459941" />
     </e>
     <e n="DatabaseView.DropAction">
       <i c="1" l="1692950786050" />
@@ -49,10 +49,10 @@
       <i c="1" l="1693201345150" />
     </e>
     <e n="EditorBackSpace">
-      <i c="361" l="1693201014549" />
+      <i c="394" l="1693203511461" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="216" l="1693202070631" />
+      <i c="247" l="1693203510092" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="4" l="1692952027260" />
@@ -64,10 +64,10 @@
       <i c="7" l="1693189363688" />
     </e>
     <e n="EditorDown">
-      <i c="168" l="1693202070354" />
+      <i c="181" l="1693203475413" />
     </e>
     <e n="EditorEnter">
-      <i c="72" l="1693201013499" />
+      <i c="85" l="1693203184251" />
     </e>
     <e n="EditorLeft">
       <i c="4" l="1692948928351" />
@@ -76,7 +76,7 @@
       <i c="22" l="1693201361948" />
     </e>
     <e n="EditorRight">
-      <i c="24" l="1693194393102" />
+      <i c="25" l="1693203222172" />
     </e>
     <e n="EditorUp">
       <i c="11" l="1692954414370" />
@@ -97,7 +97,7 @@
       <i c="2" l="1693185452178" />
     </e>
     <e n="GotoDeclaration">
-      <i c="61" l="1693202025769" />
+      <i c="64" l="1693203265570" />
     </e>
     <e n="GotoLine">
       <i c="1" l="1692934514833" />
@@ -109,7 +109,7 @@
       <i c="1" l="1692946398894" />
     </e>
     <e n="NextTemplateVariable">
-      <i c="7" l="1693186752398" />
+      <i c="9" l="1693202928933" />
     </e>
     <e n="RecentFiles">
       <i c="1" l="1693189144333" />
@@ -130,10 +130,10 @@
       <i c="1" l="1692929821908" />
     </e>
     <e n="SaveDocument">
-      <i c="45" l="1693202071159" />
+      <i c="51" l="1693203512621" />
     </e>
     <e n="SearchEverywhere">
-      <i c="1" l="1693187169435" />
+      <i c="2" l="1693202465510" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="1" l="1692931701380" />
@@ -165,6 +165,9 @@
     <e n="cn.yiiguxing.plugin.translate.util.Notifications$DoNotShowAgainAction">
       <i c="1" l="1692929862693" />
     </e>
+    <e n="com.intellij.database.actions.ddl.CreateObjectGroup$Public$2">
+      <i c="1" l="1693202989486" />
+    </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
       <i c="9" l="1693191924541" />
     </e>
@@ -172,7 +175,7 @@
       <i c="1" l="1693192068157" />
     </e>
     <e n="com.intellij.database.schemaEditor.ui.DbStructureEditorActions$CreateObjectAction">
-      <i c="1" l="1693185535909" />
+      <i c="2" l="1693203463046" />
     </e>
     <e n="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction">
       <i c="1" l="1693187007193" />
@@ -196,7 +199,7 @@
       <i c="1" l="1693189150853" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="62" l="1693192284968" />
+      <i c="67" l="1693203198432" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="2" l="1692932448811" />
@@ -205,13 +208,16 @@
       <i c="8" l="1693201839094" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
-      <i c="1" l="1693185535900" />
+      <i c="2" l="1693203461939" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="1" l="1693203451971" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="2" l="1693201759630" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
-      <i c="62" l="1693202029920" />
+      <i c="65" l="1693203265510" />
     </e>
     <e n="com.jetbrains.rider.intentions.gutterWrappers.BackendGutterMarkWrapper$getClickAction$1">
       <i c="9" l="1693201723663" />
