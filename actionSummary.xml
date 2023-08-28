@@ -4,13 +4,13 @@
       <i c="2" l="1693185671713" />
     </e>
     <e n="$Delete">
-      <i c="2" l="1693215252486" />
+      <i c="3" l="1693219245555" />
     </e>
     <e n="$SelectAll">
       <i c="3" l="1692946636376" />
     </e>
     <e n="$Undo">
-      <i c="46" l="1693218322049" />
+      <i c="51" l="1693219230396" />
     </e>
     <e n="Back">
       <i c="60" l="1693216640685" />
@@ -55,34 +55,37 @@
       <i c="1" l="1693201345150" />
     </e>
     <e n="EditorBackSpace">
-      <i c="641" l="1693218783078" />
+      <i c="656" l="1693219296900" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="400" l="1693218753069" />
+      <i c="415" l="1693219225085" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="7" l="1693217654426" />
     </e>
     <e n="EditorCopy">
-      <i c="29" l="1693216559963" />
+      <i c="30" l="1693218992807" />
     </e>
     <e n="EditorCut">
       <i c="11" l="1693218594120" />
     </e>
     <e n="EditorDown">
-      <i c="362" l="1693218742654" />
+      <i c="371" l="1693219208053" />
     </e>
     <e n="EditorEnter">
-      <i c="134" l="1693218517626" />
+      <i c="143" l="1693219221372" />
     </e>
     <e n="EditorLeft">
       <i c="10" l="1693218604539" />
     </e>
     <e n="EditorPaste">
-      <i c="57" l="1693218268678" />
+      <i c="62" l="1693219351631" />
     </e>
     <e n="EditorRight">
       <i c="45" l="1693218579385" />
+    </e>
+    <e n="EditorTab">
+      <i c="2" l="1693219350787" />
     </e>
     <e n="EditorUp">
       <i c="21" l="1693218370681" />
@@ -94,7 +97,7 @@
       <i c="2" l="1693209788034" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="15" l="1693215567707" />
+      <i c="16" l="1693219382247" />
     </e>
     <e n="GitCheckoutAction">
       <i c="11" l="1693215980265" />
@@ -106,7 +109,7 @@
       <i c="2" l="1693185452178" />
     </e>
     <e n="GotoDeclaration">
-      <i c="108" l="1693218119284" />
+      <i c="109" l="1693219276798" />
     </e>
     <e n="GotoLine">
       <i c="1" l="1692934514833" />
@@ -127,7 +130,7 @@
       <i c="5" l="1693217225431" />
     </e>
     <e n="RenameElement">
-      <i c="2" l="1693202030072" />
+      <i c="5" l="1693219294888" />
     </e>
     <e n="Resume">
       <i c="28" l="1693217392384" />
@@ -142,7 +145,7 @@
       <i c="1" l="1692929821908" />
     </e>
     <e n="SaveDocument">
-      <i c="96" l="1693218754622" />
+      <i c="100" l="1693219352213" />
     </e>
     <e n="SearchEverywhere">
       <i c="3" l="1693204272065" />
@@ -226,7 +229,7 @@
       <i c="1" l="1692950746343" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="2" l="1693186991224" />
+      <i c="3" l="1693219402887" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
       <i c="3" l="1692954361074" />
@@ -241,7 +244,7 @@
       <i c="1" l="1693189150853" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="95" l="1693217562476" />
+      <i c="99" l="1693219485519" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="2" l="1692932448811" />
@@ -250,7 +253,7 @@
       <i c="2" l="1693213184407" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="16" l="1693214839888" />
+      <i c="19" l="1693219482198" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
       <i c="2" l="1693203461939" />
@@ -265,7 +268,7 @@
       <i c="8" l="1693214273513" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
-      <i c="111" l="1693218119236" />
+      <i c="114" l="1693219279664" />
     </e>
     <e n="com.jetbrains.rider.debugger.components.RiderPaneWithTitle$getActionGroup$1">
       <i c="1" l="1693208724776" />

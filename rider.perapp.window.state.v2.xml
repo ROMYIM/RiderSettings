@@ -70,7 +70,6 @@
         {
           "id": "Unit Tests",
           "anchor": "BOTTOM",
-          "isVisible": true,
           "weight": 0.30571705
         },
         {
@@ -93,7 +92,7 @@
           "id": "Version Control",
           "order": 0,
           "anchor": "BOTTOM",
-          "weight": 0.32994187
+          "weight": 0.30571705
         },
         {
           "id": "Problems",
@@ -187,8 +186,6 @@
           "id": "Structure",
           "order": 4,
           "anchor": "RIGHT",
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.16796875,
           "sideWeight": 0.49948665
         },
