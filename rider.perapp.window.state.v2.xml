@@ -24,6 +24,7 @@
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
+          "isVisible": true,
           "weight": 0.1341146,
           "sideWeight": 0.5005133
         },
@@ -35,8 +36,6 @@
         {
           "id": "Database",
           "order": 3,
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.1341146,
           "sideWeight": 0.5005133
         },
@@ -122,7 +121,7 @@
           "id": "Debug",
           "order": 4,
           "anchor": "BOTTOM",
-          "weight": 0.32994187
+          "weight": 0.30571705
         },
         {
           "id": "KafkaToolWindow",
@@ -189,7 +188,7 @@
           "anchor": "RIGHT",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.10546875,
+          "weight": 0.16796875,
           "sideWeight": 0.49948665
         },
         {
@@ -224,7 +223,7 @@
         "top": 0.33,
         "left": 0.1341146,
         "bottom": 0.30571705,
-        "right": 0.10546875
+        "right": 0.16796875
       }
     }
   }
