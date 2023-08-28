@@ -33,6 +33,7 @@
         {
           "id": "Unit Tests",
           "anchor": "BOTTOM",
+          "isVisible": true,
           "weight": 0.32994187
         },
         {
@@ -73,7 +74,6 @@
           "id": "Services",
           "order": 4,
           "anchor": "BOTTOM",
-          "isVisible": true,
           "weight": 0.32994187
         },
         {
