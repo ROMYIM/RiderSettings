@@ -19,7 +19,7 @@
       <i c="1" l="1692948804688" />
     </e>
     <e n="CollapseAll">
-      <i c="3" l="1693187477991" />
+      <i c="4" l="1693192034948" />
     </e>
     <e n="Console.Jdbc.Execute">
       <i c="2" l="1692946640799" />
@@ -31,7 +31,7 @@
       <i c="2" l="1692946650623" />
     </e>
     <e n="Console.TableResult.Submit">
-      <i c="1" l="1692933489851" />
+      <i c="3" l="1693192080484" />
     </e>
     <e n="DatabaseView.Ddl.AlterObject">
       <i c="1" l="1693185505814" />
@@ -46,22 +46,22 @@
       <i c="1" l="1693189111243" />
     </e>
     <e n="EditorBackSpace">
-      <i c="331" l="1693189738188" />
+      <i c="334" l="1693192076479" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="179" l="1693190407706" />
+      <i c="180" l="1693191917205" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="4" l="1692952027260" />
     </e>
     <e n="EditorCopy">
-      <i c="4" l="1692949130098" />
+      <i c="5" l="1693192274305" />
     </e>
     <e n="EditorCut">
       <i c="7" l="1693189363688" />
     </e>
     <e n="EditorDown">
-      <i c="149" l="1693190405585" />
+      <i c="150" l="1693191916904" />
     </e>
     <e n="EditorEnter">
       <i c="58" l="1693190403544" />
@@ -73,7 +73,7 @@
       <i c="16" l="1693189368072" />
     </e>
     <e n="EditorRight">
-      <i c="22" l="1693186757062" />
+      <i c="23" l="1693191924303" />
     </e>
     <e n="EditorUp">
       <i c="11" l="1692954414370" />
@@ -151,7 +151,10 @@
       <i c="1" l="1692929862693" />
     </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
-      <i c="8" l="1692956562342" />
+      <i c="9" l="1693191924541" />
+    </e>
+    <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$4">
+      <i c="1" l="1693192068157" />
     </e>
     <e n="com.intellij.database.schemaEditor.ui.DbStructureEditorActions$CreateObjectAction">
       <i c="1" l="1693185535909" />
@@ -178,7 +181,7 @@
       <i c="1" l="1693189150853" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="59" l="1693190990508" />
+      <i c="61" l="1693192058717" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="2" l="1692932448811" />
