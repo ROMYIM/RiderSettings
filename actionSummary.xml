@@ -49,37 +49,37 @@
       <i c="1" l="1693201345150" />
     </e>
     <e n="EditorBackSpace">
-      <i c="480" l="1693208327030" />
+      <i c="509" l="1693209473639" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="285" l="1693208309545" />
+      <i c="301" l="1693209630032" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="4" l="1692952027260" />
+      <i c="6" l="1693208994585" />
     </e>
     <e n="EditorCopy">
-      <i c="14" l="1693208202733" />
+      <i c="16" l="1693209189823" />
     </e>
     <e n="EditorCut">
       <i c="8" l="1693203710445" />
     </e>
     <e n="EditorDown">
-      <i c="255" l="1693208309278" />
+      <i c="292" l="1693209629782" />
     </e>
     <e n="EditorEnter">
-      <i c="98" l="1693208295719" />
+      <i c="101" l="1693208991921" />
     </e>
     <e n="EditorLeft">
       <i c="5" l="1693207938590" />
     </e>
     <e n="EditorPaste">
-      <i c="33" l="1693208225045" />
+      <i c="37" l="1693209642241" />
     </e>
     <e n="EditorRight">
-      <i c="33" l="1693208113822" />
+      <i c="36" l="1693209632113" />
     </e>
     <e n="EditorUp">
-      <i c="13" l="1693207632151" />
+      <i c="17" l="1693209131569" />
     </e>
     <e n="FindInSolutionView">
       <i c="1" l="1692930141645" />
@@ -97,7 +97,7 @@
       <i c="2" l="1693185452178" />
     </e>
     <e n="GotoDeclaration">
-      <i c="80" l="1693208193611" />
+      <i c="82" l="1693209151993" />
     </e>
     <e n="GotoLine">
       <i c="1" l="1692934514833" />
@@ -130,7 +130,7 @@
       <i c="1" l="1692929821908" />
     </e>
     <e n="SaveDocument">
-      <i c="64" l="1693208328591" />
+      <i c="66" l="1693209203922" />
     </e>
     <e n="SearchEverywhere">
       <i c="3" l="1693204272065" />
@@ -145,13 +145,16 @@
       <i c="46" l="1693205603375" />
     </e>
     <e n="Stop">
-      <i c="6" l="1693206326690" />
+      <i c="7" l="1693208873454" />
     </e>
     <e n="TabList">
       <i c="2" l="1693189141579" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="8" l="1693208366137" />
+      <i c="9" l="1693208742696" />
+    </e>
+    <e n="Tree-selectChild">
+      <i c="2" l="1693209478640" />
     </e>
     <e n="Vcs.Push">
       <i c="3" l="1693189615219" />
@@ -169,7 +172,7 @@
       <i c="1" l="1693202989486" />
     </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
-      <i c="10" l="1693204483799" />
+      <i c="13" l="1693209643521" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$4">
       <i c="1" l="1693192068157" />
@@ -208,7 +211,7 @@
       <i c="1" l="1693189150853" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="83" l="1693206677499" />
+      <i c="84" l="1693209235296" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="2" l="1692932448811" />
@@ -232,10 +235,16 @@
       <i c="6" l="1693206766128" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
-      <i c="81" l="1693208193427" />
+      <i c="83" l="1693209151633" />
+    </e>
+    <e n="com.jetbrains.rider.debugger.components.RiderPaneWithTitle$getActionGroup$1">
+      <i c="1" l="1693208724776" />
+    </e>
+    <e n="com.jetbrains.rider.debugger.immediateWindow.consoleImpl.ImmediateWindowConsoleImplUtilsKt$createAddWatchAction$1">
+      <i c="1" l="1693208794537" />
     </e>
     <e n="com.jetbrains.rider.intentions.gutterWrappers.BackendGutterMarkWrapper$getClickAction$1">
-      <i c="19" l="1693208708122" />
+      <i c="20" l="1693208734871" />
     </e>
     <e n="com.jetbrains.rider.projectView.actions.newFile.RiderNewMultiFileFromTemplateAction">
       <i c="2" l="1693208159148" />
