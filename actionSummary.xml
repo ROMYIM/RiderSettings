@@ -3,6 +3,9 @@
     <e n="$Copy">
       <i c="2" l="1693185671713" />
     </e>
+    <e n="$Delete">
+      <i c="1" l="1693187694651" />
+    </e>
     <e n="$SelectAll">
       <i c="3" l="1692946636376" />
     </e>
@@ -88,7 +91,7 @@
       <i c="2" l="1693185452178" />
     </e>
     <e n="GotoDeclaration">
-      <i c="44" l="1693187458602" />
+      <i c="45" l="1693187676000" />
     </e>
     <e n="GotoLine">
       <i c="1" l="1692934514833" />
@@ -127,7 +130,7 @@
       <i c="1" l="1692949410153" />
     </e>
     <e n="Vcs.Push">
-      <i c="1" l="1692949348958" />
+      <i c="2" l="1693187934574" />
     </e>
     <e n="Vcs.ShowHistoryForBlock">
       <i c="1" l="1692931212365" />
@@ -178,7 +181,7 @@
       <i c="1" l="1692941906083" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
-      <i c="44" l="1693187458591" />
+      <i c="45" l="1693187673632" />
     </e>
     <e n="com.jetbrains.rider.intentions.gutterWrappers.BackendGutterMarkWrapper$getClickAction$1">
       <i c="4" l="1692954138735" />
