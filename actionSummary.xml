@@ -42,11 +42,14 @@
     <e n="DatabaseView.Refresh">
       <i c="2" l="1693185620684" />
     </e>
+    <e n="Debug">
+      <i c="1" l="1693189111243" />
+    </e>
     <e n="EditorBackSpace">
-      <i c="324" l="1693187428950" />
+      <i c="331" l="1693189738188" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="172" l="1693186770221" />
+      <i c="179" l="1693190407706" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="4" l="1692952027260" />
@@ -55,19 +58,19 @@
       <i c="4" l="1692949130098" />
     </e>
     <e n="EditorCut">
-      <i c="6" l="1693187417416" />
+      <i c="7" l="1693189363688" />
     </e>
     <e n="EditorDown">
-      <i c="148" l="1693186751269" />
+      <i c="149" l="1693190405585" />
     </e>
     <e n="EditorEnter">
-      <i c="54" l="1693186714141" />
+      <i c="58" l="1693190403544" />
     </e>
     <e n="EditorLeft">
       <i c="4" l="1692948928351" />
     </e>
     <e n="EditorPaste">
-      <i c="15" l="1692956559363" />
+      <i c="16" l="1693189368072" />
     </e>
     <e n="EditorRight">
       <i c="22" l="1693186757062" />
@@ -79,19 +82,19 @@
       <i c="1" l="1692930141645" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="12" l="1693188969257" />
+      <i c="13" l="1693189396345" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="4" l="1693187340909" />
+      <i c="9" l="1693190981190" />
     </e>
     <e n="GitMergeBranchAction">
-      <i c="3" l="1693187348148" />
+      <i c="4" l="1693189565078" />
     </e>
     <e n="GitUpdateSelectedBranchAction">
       <i c="2" l="1693185452178" />
     </e>
     <e n="GotoDeclaration">
-      <i c="45" l="1693187676000" />
+      <i c="46" l="1693190290016" />
     </e>
     <e n="GotoLine">
       <i c="1" l="1692934514833" />
@@ -105,6 +108,9 @@
     <e n="NextTemplateVariable">
       <i c="7" l="1693186752398" />
     </e>
+    <e n="RecentFiles">
+      <i c="1" l="1693189144333" />
+    </e>
     <e n="RenameElement">
       <i c="1" l="1692954446165" />
     </e>
@@ -115,7 +121,7 @@
       <i c="1" l="1692929821908" />
     </e>
     <e n="SaveDocument">
-      <i c="31" l="1693186770901" />
+      <i c="34" l="1693190408842" />
     </e>
     <e n="SearchEverywhere">
       <i c="1" l="1693187169435" />
@@ -126,14 +132,17 @@
     <e n="ShowSettings">
       <i c="1" l="1692931702710" />
     </e>
+    <e n="Stop">
+      <i c="1" l="1693189328493" />
+    </e>
     <e n="TabList">
-      <i c="1" l="1692949410153" />
+      <i c="2" l="1693189141579" />
     </e>
     <e n="Vcs.Push">
-      <i c="2" l="1693187934574" />
+      <i c="3" l="1693189615219" />
     </e>
     <e n="Vcs.ShowHistoryForBlock">
-      <i c="1" l="1692931212365" />
+      <i c="2" l="1693190305868" />
     </e>
     <e n="Vcs.UpdateProject">
       <i c="1" l="1692948826100" />
@@ -165,14 +174,17 @@
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="4" l="1693187385815" />
     </e>
+    <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
+      <i c="1" l="1693189150853" />
+    </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="53" l="1693188955720" />
+      <i c="59" l="1693190990508" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="2" l="1692932448811" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="6" l="1693187143490" />
+      <i c="7" l="1693189552038" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
       <i c="1" l="1693185535900" />
@@ -181,7 +193,7 @@
       <i c="1" l="1692941906083" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
-      <i c="45" l="1693187673632" />
+      <i c="46" l="1693190289809" />
     </e>
     <e n="com.jetbrains.rider.intentions.gutterWrappers.BackendGutterMarkWrapper$getClickAction$1">
       <i c="4" l="1692954138735" />

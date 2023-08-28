@@ -13,13 +13,13 @@
         {
           "id": "Commit",
           "order": 1,
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.1861979
         },
         {
           "id": "Database",
           "order": 3,
+          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.1861979,
           "sideWeight": 0.5005133
         },
@@ -66,6 +66,12 @@
         },
         {
           "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.32994187
+        },
+        {
+          "id": "Debug",
           "order": 4,
           "anchor": "BOTTOM",
           "weight": 0.32994187

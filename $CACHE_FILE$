@@ -22484,10 +22484,15 @@
   }
 }</component>
   <component name="editorConfigEncodings">
+    <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/bin/Debug/net7.0/appsettings.Staging.json" charset="utf-8-bom" />
     <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Applications/Queries/Team/TeamCustomerPageQuery.cs" charset="utf-8-bom" />
     <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Applications/Models/Team/TeamCustomerPageDto.cs" charset="utf-8-bom" />
     <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Infrastructure/Authorization" charset="utf-8-bom" />
+    <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll" charset="utf-8-bom" />
     <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Infrastructure/Validators/DeliveryResultValidator.cs" charset="utf-8-bom" />
+    <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll" charset="utf-8-bom" />
     <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Applications/Handlers/Team/TeamCustomerPageQueryHandler.cs" charset="utf-8-bom" />
+    <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll" charset="utf-8-bom" />
+    <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/bin/Debug/net7.0/logs/2023-08-28.log" charset="utf-8-bom" />
   </component>
 </application>
