@@ -7,6 +7,8 @@
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.1861979,
           "sideWeight": 0.5005133
         },
@@ -18,8 +20,6 @@
         {
           "id": "Database",
           "order": 3,
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.1861979,
           "sideWeight": 0.5005133
         },
@@ -73,6 +73,7 @@
           "id": "Services",
           "order": 4,
           "anchor": "BOTTOM",
+          "isVisible": true,
           "weight": 0.32994187
         },
         {
@@ -85,8 +86,7 @@
           "id": "Notifications",
           "order": 0,
           "anchor": "RIGHT",
-          "contentUiType": "COMBO",
-          "weight": 0.25
+          "weight": 0.14609376
         },
         {
           "id": "AIAssistant",
@@ -104,6 +104,7 @@
           "id": "Structure",
           "order": 4,
           "anchor": "RIGHT",
+          "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.14609376,
           "sideWeight": 0.49948665
