@@ -55,10 +55,10 @@
       <i c="1" l="1693201345150" />
     </e>
     <e n="EditorBackSpace">
-      <i c="692" l="1693277750784" />
+      <i c="704" l="1693280819815" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="457" l="1693277521879" />
+      <i c="466" l="1693280829083" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="7" l="1693217654426" />
@@ -70,7 +70,7 @@
       <i c="11" l="1693218594120" />
     </e>
     <e n="EditorDown">
-      <i c="397" l="1693277510764" />
+      <i c="410" l="1693280813972" />
     </e>
     <e n="EditorEnter">
       <i c="151" l="1693277507060" />
@@ -109,7 +109,7 @@
       <i c="2" l="1693185452178" />
     </e>
     <e n="GotoDeclaration">
-      <i c="117" l="1693278996008" />
+      <i c="118" l="1693280804816" />
     </e>
     <e n="GotoLine">
       <i c="1" l="1692934514833" />
@@ -130,7 +130,7 @@
       <i c="5" l="1693217225431" />
     </e>
     <e n="RenameElement">
-      <i c="5" l="1693219294888" />
+      <i c="6" l="1693280777331" />
     </e>
     <e n="ResetToMySettings">
       <i c="6" l="1693271997267" />
@@ -148,7 +148,7 @@
       <i c="1" l="1692929821908" />
     </e>
     <e n="SaveDocument">
-      <i c="107" l="1693277524948" />
+      <i c="109" l="1693280821913" />
     </e>
     <e n="SearchEverywhere">
       <i c="3" l="1693204272065" />
@@ -280,7 +280,7 @@
       <i c="8" l="1693214273513" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
-      <i c="122" l="1693278995808" />
+      <i c="124" l="1693280804751" />
     </e>
     <e n="com.jetbrains.rider.debugger.components.RiderPaneWithTitle$getActionGroup$1">
       <i c="1" l="1693208724776" />
@@ -289,10 +289,10 @@
       <i c="3" l="1693214435488" />
     </e>
     <e n="com.jetbrains.rider.intentions.gutterWrappers.BackendGutterMarkWrapper$getClickAction$1">
-      <i c="41" l="1693272844775" />
+      <i c="42" l="1693280830967" />
     </e>
     <e n="com.jetbrains.rider.projectView.actions.newFile.RiderNewMultiFileFromTemplateAction">
-      <i c="3" l="1693215132599" />
+      <i c="5" l="1693280367889" />
     </e>
     <e n="com.jetbrains.rider.projectView.views.search.SolutionSearchView$MyNextOccurrenceAction">
       <i c="2" l="1693209805313" />
