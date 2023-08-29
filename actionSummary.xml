@@ -10,10 +10,10 @@
       <i c="3" l="1692946636376" />
     </e>
     <e n="$Undo">
-      <i c="53" l="1693272886716" />
+      <i c="58" l="1693275887939" />
     </e>
     <e n="Back">
-      <i c="60" l="1693216640685" />
+      <i c="61" l="1693275706029" />
     </e>
     <e n="ChangesView.Revert">
       <i c="1" l="1692948804688" />
@@ -34,10 +34,10 @@
       <i c="6" l="1692956566755" />
     </e>
     <e n="Console.TableResult.Reload">
-      <i c="2" l="1692946650623" />
+      <i c="4" l="1693275456890" />
     </e>
     <e n="Console.TableResult.Submit">
-      <i c="4" l="1693204516702" />
+      <i c="5" l="1693275163259" />
     </e>
     <e n="DatabaseView.Ddl.AlterObject">
       <i c="4" l="1693203459941" />
@@ -55,22 +55,22 @@
       <i c="1" l="1693201345150" />
     </e>
     <e n="EditorBackSpace">
-      <i c="672" l="1693272909603" />
+      <i c="678" l="1693275752394" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="435" l="1693272900462" />
+      <i c="445" l="1693275713075" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="7" l="1693217654426" />
     </e>
     <e n="EditorCopy">
-      <i c="31" l="1693273751255" />
+      <i c="32" l="1693275147005" />
     </e>
     <e n="EditorCut">
       <i c="11" l="1693218594120" />
     </e>
     <e n="EditorDown">
-      <i c="386" l="1693272871333" />
+      <i c="388" l="1693275562138" />
     </e>
     <e n="EditorEnter">
       <i c="148" l="1693272734884" />
@@ -79,10 +79,10 @@
       <i c="10" l="1693218604539" />
     </e>
     <e n="EditorPaste">
-      <i c="62" l="1693219351631" />
+      <i c="67" l="1693275911812" />
     </e>
     <e n="EditorRight">
-      <i c="48" l="1693272919444" />
+      <i c="49" l="1693275087774" />
     </e>
     <e n="EditorTab">
       <i c="2" l="1693219350787" />
@@ -97,19 +97,19 @@
       <i c="2" l="1693209788034" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="17" l="1693273042348" />
+      <i c="20" l="1693276202441" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="12" l="1693273059693" />
+      <i c="14" l="1693275768650" />
     </e>
     <e n="GitMergeBranchAction">
-      <i c="5" l="1693273076763" />
+      <i c="6" l="1693275775045" />
     </e>
     <e n="GitUpdateSelectedBranchAction">
       <i c="2" l="1693185452178" />
     </e>
     <e n="GotoDeclaration">
-      <i c="110" l="1693272610339" />
+      <i c="112" l="1693276027768" />
     </e>
     <e n="GotoLine">
       <i c="1" l="1692934514833" />
@@ -148,7 +148,7 @@
       <i c="1" l="1692929821908" />
     </e>
     <e n="SaveDocument">
-      <i c="103" l="1693272921571" />
+      <i c="106" l="1693275912403" />
     </e>
     <e n="SearchEverywhere">
       <i c="3" l="1693204272065" />
@@ -174,6 +174,9 @@
     <e n="Stop">
       <i c="12" l="1693214836809" />
     </e>
+    <e n="Switcher">
+      <i c="6" l="1693275230529" />
+    </e>
     <e n="TabList">
       <i c="3" l="1693213074821" />
     </e>
@@ -184,7 +187,7 @@
       <i c="2" l="1693209478640" />
     </e>
     <e n="Vcs.Push">
-      <i c="4" l="1693273341658" />
+      <i c="5" l="1693275784951" />
     </e>
     <e n="Vcs.ShowHistoryForBlock">
       <i c="2" l="1693190305868" />
@@ -199,7 +202,7 @@
       <i c="1" l="1693202989486" />
     </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
-      <i c="13" l="1693209643521" />
+      <i c="14" l="1693275088010" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$4">
       <i c="1" l="1693192068157" />
@@ -253,7 +256,7 @@
       <i c="1" l="1693189150853" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="102" l="1693273147980" />
+      <i c="121" l="1693276182787" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="9" l="1693271993580" />
@@ -277,7 +280,7 @@
       <i c="8" l="1693214273513" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
-      <i c="115" l="1693272610134" />
+      <i c="117" l="1693276027750" />
     </e>
     <e n="com.jetbrains.rider.debugger.components.RiderPaneWithTitle$getActionGroup$1">
       <i c="1" l="1693208724776" />
