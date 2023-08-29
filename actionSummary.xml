@@ -55,7 +55,7 @@
       <i c="1" l="1693201345150" />
     </e>
     <e n="EditorBackSpace">
-      <i c="690" l="1693277504621" />
+      <i c="692" l="1693277750784" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="457" l="1693277521879" />
@@ -97,7 +97,7 @@
       <i c="2" l="1693209788034" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="20" l="1693276202441" />
+      <i c="21" l="1693277760340" />
     </e>
     <e n="GitCheckoutAction">
       <i c="14" l="1693275768650" />
@@ -256,7 +256,7 @@
       <i c="1" l="1693189150853" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="126" l="1693277544557" />
+      <i c="131" l="1693278387790" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="9" l="1693271993580" />
