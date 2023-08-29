@@ -24,13 +24,15 @@
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
-          "weight": 0.16015625,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.20234375,
           "sideWeight": 0.5005133
         },
         {
           "id": "Commit",
           "order": 1,
-          "weight": 0.16015625
+          "weight": 0.20234375
         },
         {
           "id": "Azure Explorer",
@@ -42,9 +44,7 @@
         {
           "id": "Database",
           "order": 6,
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.16015625,
+          "weight": 0.20234375,
           "sideWeight": 0.49948665
         },
         {
@@ -221,7 +221,7 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.16015625,
+        "left": 0.20234375,
         "bottom": 0.30571705,
         "right": 0.1627604
       }

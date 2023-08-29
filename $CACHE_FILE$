@@ -22484,10 +22484,12 @@
   }
 }</component>
   <component name="editorConfigEncodings">
-    <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Applications/Models/Flow/GetFlowProcessHistoryDto.cs" charset="utf-8-bom" />
-    <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/bin/Debug/net7.0/appsettings.Staging.json" charset="utf-8-bom" />
     <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Applications/Queries/Team/TeamCustomerPageQuery.cs" charset="utf-8-bom" />
     <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Applications/Models/Team/TeamCustomerPageDto.cs" charset="utf-8-bom" />
+    <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Applications/Handlers/File/PackageDeliveryFilesCommandHandler.cs" charset="utf-8-bom" />
+    <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Applications/Models/Flow/GetFlowProcessHistoryDto.cs" charset="utf-8-bom" />
+    <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Applications/Commands/File/PackageDeliveryFilesCommand.cs" charset="utf-8-bom" />
+    <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/bin/Debug/net7.0/appsettings.Staging.json" charset="utf-8-bom" />
     <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Infrastructure/Authorization" charset="utf-8-bom" />
     <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll" charset="utf-8-bom" />
     <file url="file://E:/Repositories/iPlatformExtension/iPlatformExtension.TrademarkOperationCenter/Infrastructure/Validators/DeliveryResultValidator.cs" charset="utf-8-bom" />
