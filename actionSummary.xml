@@ -55,10 +55,10 @@
       <i c="1" l="1693201345150" />
     </e>
     <e n="EditorBackSpace">
-      <i c="873" l="1693296275014" />
+      <i c="874" l="1693300953694" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="605" l="1693296358585" />
+      <i c="607" l="1693300958014" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="10" l="1693289719990" />
@@ -100,7 +100,7 @@
       <i c="2" l="1693209788034" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="25" l="1693294569149" />
+      <i c="26" l="1693300994645" />
     </e>
     <e n="GitCheckoutAction">
       <i c="14" l="1693275768650" />
@@ -160,7 +160,7 @@
       <i c="1" l="1693294247195" />
     </e>
     <e n="SaveDocument">
-      <i c="121" l="1693296056542" />
+      <i c="123" l="1693300959293" />
     </e>
     <e n="SearchEverywhere">
       <i c="5" l="1693293230287" />
@@ -268,7 +268,7 @@
       <i c="1" l="1693189150853" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="153" l="1693295803379" />
+      <i c="154" l="1693300900222" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="9" l="1693271993580" />
