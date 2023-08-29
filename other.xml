@@ -12,6 +12,7 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
+    "ColorChooser.RecentColors": "119-37-161-255,,,133-47-185-255,,,152-71-208-255",
     "Debug.Allow.Typing": "true",
     "GridFilterComponent.FILTER_PREFERRED_SIZE": "1038",
     "InstalledPluginsSearchHistory": "/suggested",
@@ -52,6 +53,7 @@
     "org.intellij.images.editor.actions.BackgroundImageDialog#recent": "",
     "previousColorScheme": "_@user_Light copy1",
     "registry.to.advanced.settings.migration.build": "RD-232.9559.61",
+    "selected.color.option.type": "ReSharper.CSHARP_PROPERTY_IDENTIFIER",
     "tasks.pass.word.conversion.enforced": "true",
     "toolwindow.stripes.buttons.info.shown": "true",
     "translation.notification.do.not.show.again.check.google.network": "true",

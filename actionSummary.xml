@@ -151,7 +151,7 @@
       <i c="3" l="1693204272065" />
     </e>
     <e n="SettingsEntryPoint">
-      <i c="1" l="1692931701380" />
+      <i c="7" l="1693271276545" />
     </e>
     <e n="ShelveChanges.UnshelveWithDialog">
       <i c="1" l="1693215987228" />
@@ -160,7 +160,7 @@
       <i c="1" l="1693214868452" />
     </e>
     <e n="ShowSettings">
-      <i c="1" l="1692931702710" />
+      <i c="7" l="1693271277578" />
     </e>
     <e n="StepInto">
       <i c="13" l="1693214590314" />
@@ -235,7 +235,7 @@
       <i c="3" l="1692954361074" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="15" l="1693217403500" />
+      <i c="16" l="1693271000336" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="6" l="1693214522357" />

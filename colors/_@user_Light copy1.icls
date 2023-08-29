@@ -4,7 +4,7 @@
     <property name="created">2022-10-18T11:37:01</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2022.3.0.0</property>
-    <property name="modified">2023-08-28T14:41:08</property>
+    <property name="modified">2023-08-29T09:08:04</property>
     <property name="originalScheme">Light</property>
     <property name="partialSave">true</property>
   </metaInfo>
@@ -42,6 +42,11 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="ReSharper.CSHARP_FIELD_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
+      </value>
+    </option>
     <option name="ReSharper.CSHARP_INTERFACE_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="158149" />
@@ -75,6 +80,12 @@
     <option name="ReSharper.CSHARP_PARAMETER_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="105dec" />
+      </value>
+    </option>
+    <option name="ReSharper.CSHARP_PROPERTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="7725a1" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="ReSharper.CSHARP_RECORD_IDENTIFIER">
