@@ -132,6 +132,9 @@
     <e n="RenameElement">
       <i c="5" l="1693219294888" />
     </e>
+    <e n="ResetToMySettings">
+      <i c="4" l="1693271589874" />
+    </e>
     <e n="Resume">
       <i c="28" l="1693217392384" />
     </e>
@@ -160,7 +163,7 @@
       <i c="1" l="1693214868452" />
     </e>
     <e n="ShowSettings">
-      <i c="7" l="1693271277578" />
+      <i c="8" l="1693271298909" />
     </e>
     <e n="StepInto">
       <i c="13" l="1693214590314" />
@@ -247,7 +250,7 @@
       <i c="99" l="1693219485519" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="2" l="1692932448811" />
+      <i c="7" l="1693271584650" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="2" l="1693213184407" />
