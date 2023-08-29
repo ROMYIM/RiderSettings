@@ -186,7 +186,9 @@
           "id": "Structure",
           "order": 4,
           "anchor": "RIGHT",
-          "weight": 0.16796875,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.1627604,
           "sideWeight": 0.49948665
         },
         {
@@ -221,7 +223,7 @@
         "top": 0.33,
         "left": 0.16015625,
         "bottom": 0.30571705,
-        "right": 0.16796875
+        "right": 0.1627604
       }
     }
   }
