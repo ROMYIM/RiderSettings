@@ -24,14 +24,14 @@
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.20234375,
           "sideWeight": 0.5005133
         },
         {
           "id": "Commit",
           "order": 1,
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.20234375
         },
         {
@@ -103,6 +103,8 @@
           "id": "Problems View",
           "order": 2,
           "anchor": "BOTTOM",
+          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.30571705
         },
         {
