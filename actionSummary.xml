@@ -109,7 +109,7 @@
       <i c="6" l="1693275775045" />
     </e>
     <e n="GitUpdateSelectedBranchAction">
-      <i c="2" l="1693185452178" />
+      <i c="3" l="1693357462045" />
     </e>
     <e n="GotoDeclaration">
       <i c="136" l="1693302002837" />
@@ -142,7 +142,7 @@
       <i c="6" l="1693280777331" />
     </e>
     <e n="ResetToMySettings">
-      <i c="6" l="1693271997267" />
+      <i c="7" l="1693357480593" />
     </e>
     <e n="Resume">
       <i c="28" l="1693217392384" />
@@ -253,7 +253,7 @@
       <i c="1" l="1692950746343" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="4" l="1693294430951" />
+      <i c="5" l="1693357470539" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
       <i c="4" l="1693287251453" />
@@ -271,13 +271,13 @@
       <i c="154" l="1693300900222" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="9" l="1693271993580" />
+      <i c="10" l="1693357474859" />
     </e>
     <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
       <i c="2" l="1693213184407" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="25" l="1693295919366" />
+      <i c="26" l="1693357473628" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
       <i c="2" l="1693203461939" />
