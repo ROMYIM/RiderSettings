@@ -57,7 +57,8 @@
         },
         {
           "id": "Build",
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.32994187
         },
         {
           "id": "Dynamic Program Analysis",
@@ -65,7 +66,9 @@
         },
         {
           "id": "TODO",
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.32994187
         },
         {
           "id": "Unit Tests",
@@ -82,7 +85,8 @@
         },
         {
           "id": "NuGet",
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.32994187
         },
         {
           "id": "dotMemory Profiler",
@@ -103,9 +107,7 @@
           "id": "Problems View",
           "order": 2,
           "anchor": "BOTTOM",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.30571705
+          "weight": 0.32994187
         },
         {
           "id": "Terminal",
@@ -123,7 +125,7 @@
           "id": "Debug",
           "order": 4,
           "anchor": "BOTTOM",
-          "weight": 0.30571705
+          "weight": 0.32994187
         },
         {
           "id": "KafkaToolWindow",
@@ -224,7 +226,7 @@
       "unifiedWeights": {
         "top": 0.33,
         "left": 0.20234375,
-        "bottom": 0.30571705,
+        "bottom": 0.32994187,
         "right": 0.1627604
       }
     }
