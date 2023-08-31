@@ -24,15 +24,13 @@
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.20234375,
+          "weight": 0.19088542,
           "sideWeight": 0.5005133
         },
         {
           "id": "Commit",
           "order": 1,
-          "weight": 0.20234375
+          "weight": 0.19088542
         },
         {
           "id": "Azure Explorer",
@@ -44,12 +42,15 @@
         {
           "id": "Database",
           "order": 6,
-          "weight": 0.20234375,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.19088542,
           "sideWeight": 0.49948665
         },
         {
           "id": "Database Changes",
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.30571705
         },
         {
           "id": "TypeScript",
@@ -67,7 +68,6 @@
         {
           "id": "TODO",
           "anchor": "BOTTOM",
-          "isVisible": true,
           "weight": 0.32994187
         },
         {
@@ -107,7 +107,7 @@
           "id": "Problems View",
           "order": 2,
           "anchor": "BOTTOM",
-          "weight": 0.32994187
+          "weight": 0.30571705
         },
         {
           "id": "Terminal",
@@ -125,7 +125,7 @@
           "id": "Debug",
           "order": 4,
           "anchor": "BOTTOM",
-          "weight": 0.32994187
+          "weight": 0.30571705
         },
         {
           "id": "KafkaToolWindow",
@@ -136,6 +136,7 @@
           "id": "Services",
           "order": 4,
           "anchor": "BOTTOM",
+          "isVisible": true,
           "weight": 0.30571705
         },
         {
@@ -144,7 +145,8 @@
         },
         {
           "id": "Endpoints",
-          "anchor": "RIGHT"
+          "anchor": "RIGHT",
+          "weight": 0.1627604
         },
         {
           "id": "IL Viewer",
@@ -225,8 +227,8 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.20234375,
-        "bottom": 0.32994187,
+        "left": 0.19088542,
+        "bottom": 0.30571705,
         "right": 0.1627604
       }
     }
