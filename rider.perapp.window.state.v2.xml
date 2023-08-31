@@ -24,6 +24,8 @@
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
           "weight": 0.19088542,
           "sideWeight": 0.5005133
         },
@@ -42,8 +44,6 @@
         {
           "id": "Database",
           "order": 6,
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.19088542,
           "sideWeight": 0.49948665
         },
@@ -59,7 +59,7 @@
         {
           "id": "Build",
           "anchor": "BOTTOM",
-          "weight": 0.32994187
+          "weight": 0.30571705
         },
         {
           "id": "Dynamic Program Analysis",
@@ -136,7 +136,6 @@
           "id": "Services",
           "order": 4,
           "anchor": "BOTTOM",
-          "isVisible": true,
           "weight": 0.30571705
         },
         {

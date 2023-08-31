@@ -43,7 +43,7 @@
       <i c="12" l="1693293076032" />
     </e>
     <e n="Console.TableResult.Submit">
-      <i c="8" l="1693292882109" />
+      <i c="9" l="1693468961069" />
     </e>
     <e n="DatabaseView.Ddl.AlterObject">
       <i c="5" l="1693288456940" />
@@ -61,7 +61,7 @@
       <i c="1" l="1693201345150" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1378" l="1693468508903" />
+      <i c="1386" l="1693469161180" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1055" l="1693468481765" />
@@ -118,7 +118,7 @@
       <i c="3" l="1693392486164" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="42" l="1693465752166" />
+      <i c="43" l="1693469168263" />
     </e>
     <e n="GitCheckoutAction">
       <i c="31" l="1693465773252" />
@@ -172,7 +172,7 @@
       <i c="6" l="1693294664606" />
     </e>
     <e n="RedesignedRunConfigurationSelector">
-      <i c="1" l="1693467448640" />
+      <i c="2" l="1693469203167" />
     </e>
     <e n="Refactorings.QuickListPopupAction">
       <i c="2" l="1693452552310" />
@@ -187,7 +187,7 @@
       <i c="7" l="1693357480593" />
     </e>
     <e n="Resume">
-      <i c="29" l="1693467605321" />
+      <i c="30" l="1693468858547" />
     </e>
     <e n="RevealIn">
       <i c="5" l="1693392171186" />
@@ -200,6 +200,9 @@
     </e>
     <e n="RiderOpenSolution">
       <i c="1" l="1692929821908" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1693469205029" />
     </e>
     <e n="RunAnything">
       <i c="1" l="1693294247195" />
@@ -232,7 +235,7 @@
       <i c="184" l="1693217384184" />
     </e>
     <e n="Stop">
-      <i c="17" l="1693468564540" />
+      <i c="18" l="1693469198029" />
     </e>
     <e n="Switcher">
       <i c="6" l="1693275230529" />
@@ -264,6 +267,9 @@
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
       <i c="27" l="1693466796928" />
     </e>
+    <e n="com.intellij.database.run.ui.grid.editors.DefaultBooleanEditorFactory$ChooseBooleanAction">
+      <i c="2" l="1693468958891" />
+    </e>
     <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$4">
       <i c="1" l="1693192068157" />
     </e>
@@ -283,7 +289,7 @@
       <i c="1" l="1693205339598" />
     </e>
     <e n="com.intellij.execution.ui.SelectRunConfigurationWithInlineActions">
-      <i c="1" l="1693467455412" />
+      <i c="2" l="1693469204195" />
     </e>
     <e n="com.intellij.execution.ui.layout.impl.RunnerContentUi$ToggleSeparateWatches">
       <i c="1" l="1693205342767" />
@@ -328,7 +334,7 @@
       <i c="1" l="1693189150853" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="237" l="1693467851505" />
+      <i c="239" l="1693469201854" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="11" l="1693357728880" />
@@ -337,7 +343,7 @@
       <i c="2" l="1693213184407" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="41" l="1693465792037" />
+      <i c="42" l="1693469200942" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
       <i c="2" l="1693203461939" />
@@ -352,7 +358,7 @@
       <i c="1" l="1693203877811" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="10" l="1693467819748" />
+      <i c="11" l="1693468872243" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
       <i c="221" l="1693467738392" />
