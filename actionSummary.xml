@@ -7,7 +7,7 @@
       <i c="9" l="1693462725311" />
     </e>
     <e n="$Paste">
-      <i c="1" l="1693552720847" />
+      <i c="2" l="1693559846369" />
     </e>
     <e n="$SelectAll">
       <i c="16" l="1693553402153" />
@@ -34,7 +34,7 @@
       <i c="13" l="1693555804967" />
     </e>
     <e n="CommentByLineComment">
-      <i c="4" l="1693217407574" />
+      <i c="5" l="1693559337650" />
     </e>
     <e n="Console.Jdbc.Execute">
       <i c="17" l="1693553410460" />
@@ -64,16 +64,16 @@
       <i c="6" l="1693472687809" />
     </e>
     <e n="Debug">
-      <i c="16" l="1693557044185" />
+      <i c="17" l="1693559484503" />
     </e>
     <e n="DebugClass">
-      <i c="1" l="1693556809279" />
+      <i c="2" l="1693559891365" />
     </e>
     <e n="EditPropertiesAction">
-      <i c="2" l="1693556430525" />
+      <i c="3" l="1693559850141" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1563" l="1693556225240" />
+      <i c="1564" l="1693557197765" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1257" l="1693556179243" />
@@ -82,22 +82,22 @@
       <i c="20" l="1693553980582" />
     </e>
     <e n="EditorCopy">
-      <i c="69" l="1693556453317" />
+      <i c="73" l="1693559879068" />
     </e>
     <e n="EditorCut">
-      <i c="29" l="1693556168891" />
+      <i c="30" l="1693557193033" />
     </e>
     <e n="EditorDown">
       <i c="1111" l="1693556017744" />
     </e>
     <e n="EditorEnter">
-      <i c="386" l="1693556134369" />
+      <i c="387" l="1693557194936" />
     </e>
     <e n="EditorLeft">
       <i c="36" l="1693548891137" />
     </e>
     <e n="EditorPaste">
-      <i c="142" l="1693556471601" />
+      <i c="147" l="1693559883672" />
     </e>
     <e n="EditorRight">
       <i c="169" l="1693556174338" />
@@ -196,7 +196,7 @@
       <i c="3" l="1693553403130" />
     </e>
     <e n="RenameElement">
-      <i c="15" l="1693556450394" />
+      <i c="16" l="1693559876268" />
     </e>
     <e n="ResetToMySettings">
       <i c="7" l="1693357480593" />
@@ -226,7 +226,7 @@
       <i c="1" l="1693556523136" />
     </e>
     <e n="SaveDocument">
-      <i c="210" l="1693556643221" />
+      <i c="212" l="1693559884160" />
     </e>
     <e n="SearchEverywhere">
       <i c="24" l="1693556126927" />
@@ -250,10 +250,10 @@
       <i c="13" l="1693214590314" />
     </e>
     <e n="StepOver">
-      <i c="192" l="1693557027207" />
+      <i c="204" l="1693559519513" />
     </e>
     <e n="Stop">
-      <i c="19" l="1693557041943" />
+      <i c="21" l="1693559547463" />
     </e>
     <e n="Switcher">
       <i c="6" l="1693275230529" />
@@ -340,7 +340,7 @@
       <i c="16" l="1693214559409" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="7" l="1693552577605" />
+      <i c="8" l="1693557177466" />
     </e>
     <e n="com.intellij.ide.actions.CollapseAllAction">
       <i c="1" l="1692950746343" />
@@ -376,7 +376,7 @@
       <i c="2" l="1693213184407" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="50" l="1693555192924" />
+      <i c="51" l="1693559553054" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
       <i c="5" l="1693546422805" />
@@ -394,7 +394,7 @@
       <i c="11" l="1693468872243" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
-      <i c="251" l="1693556565314" />
+      <i c="252" l="1693559337559" />
     </e>
     <e n="com.jetbrains.rider.completion.summaryInfo.ParameterInfoListView$NextSignatureAction">
       <i c="1" l="1693294174316" />
@@ -403,7 +403,7 @@
       <i c="1" l="1693208724776" />
     </e>
     <e n="com.jetbrains.rider.debugger.immediateWindow.consoleImpl.ImmediateWindowConsoleImplUtilsKt$createAddWatchAction$1">
-      <i c="3" l="1693214435488" />
+      <i c="6" l="1693559540871" />
     </e>
     <e n="com.jetbrains.rider.intentions.gutterWrappers.BackendGutterMarkWrapper$getClickAction$1">
       <i c="109" l="1693547955703" />
@@ -418,7 +418,7 @@
       <i c="1" l="1693295890222" />
     </e>
     <e n="com.jetbrains.rider.ui.components.ComponentFactories$Companion$getAnAction$1">
-      <i c="2" l="1693217395768" />
+      <i c="3" l="1693559522048" />
     </e>
   </component>
 </application>
