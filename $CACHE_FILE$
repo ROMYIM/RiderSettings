@@ -5856,6 +5856,14 @@
           }
         ]
       },
+      "*.dto": {
+        "dataSet": [
+          {
+            "pluginIdString": "net.fallingangel.jimmer-dto",
+            "nullablePluginName": "JimmerDTO"
+          }
+        ]
+      },
       "*.dtp": {
         "dataSet": [
           {
@@ -20168,7 +20176,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1693358151447
+    "lastUpdateTime": 1693551502527
   },
   "dependencies": {
     "featureMap": {
@@ -21773,7 +21781,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1693358152103
+    "lastUpdateTime": 1693551503977
   }
 }]]></component>
   <component name="PluginFeatureService">{

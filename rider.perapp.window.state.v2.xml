@@ -24,15 +24,14 @@
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
-          "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.19088542,
+          "weight": 0.17005208,
           "sideWeight": 0.5005133
         },
         {
           "id": "Commit",
           "order": 1,
-          "weight": 0.19088542
+          "weight": 0.17005208
         },
         {
           "id": "Azure Explorer",
@@ -44,8 +43,12 @@
         {
           "id": "Database",
           "order": 6,
-          "weight": 0.19088542,
+          "weight": 0.17005208,
           "sideWeight": 0.49948665
+        },
+        {
+          "id": "Resources Explorer",
+          "order": 6
         },
         {
           "id": "Database Changes",
@@ -128,9 +131,22 @@
           "weight": 0.30571705
         },
         {
+          "id": "Layout Inspector",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "isSplit": true
+        },
+        {
           "id": "KafkaToolWindow",
           "order": 4,
           "anchor": "BOTTOM"
+        },
+        {
+          "id": "Run",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.30571705
         },
         {
           "id": "Services",
@@ -193,7 +209,7 @@
           "anchor": "RIGHT",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.1627604,
+          "weight": 0.11744791,
           "sideWeight": 0.49948665
         },
         {
@@ -219,6 +235,12 @@
           "isSplit": true
         },
         {
+          "id": "Device Explorer",
+          "order": 5,
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
           "id": "Device Manager",
           "order": 5,
           "anchor": "RIGHT"
@@ -226,9 +248,9 @@
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.19088542,
+        "left": 0.17005208,
         "bottom": 0.30571705,
-        "right": 0.1627604
+        "right": 0.11744791
       }
     }
   }
