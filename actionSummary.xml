@@ -60,20 +60,23 @@
     <e n="DatabaseView.DropAction">
       <i c="2" l="1693292532160" />
     </e>
+    <e n="DatabaseView.PropertiesAction">
+      <i c="1" l="1693560069486" />
+    </e>
     <e n="DatabaseView.Refresh">
       <i c="6" l="1693472687809" />
     </e>
     <e n="Debug">
-      <i c="17" l="1693559484503" />
+      <i c="18" l="1693560513825" />
     </e>
     <e n="DebugClass">
-      <i c="2" l="1693559891365" />
+      <i c="3" l="1693560013092" />
     </e>
     <e n="EditPropertiesAction">
       <i c="3" l="1693559850141" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1564" l="1693557197765" />
+      <i c="1565" l="1693560240819" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1257" l="1693556179243" />
@@ -82,7 +85,7 @@
       <i c="20" l="1693553980582" />
     </e>
     <e n="EditorCopy">
-      <i c="73" l="1693559879068" />
+      <i c="75" l="1693560504972" />
     </e>
     <e n="EditorCut">
       <i c="30" l="1693557193033" />
@@ -97,7 +100,7 @@
       <i c="36" l="1693548891137" />
     </e>
     <e n="EditorPaste">
-      <i c="147" l="1693559883672" />
+      <i c="149" l="1693560509601" />
     </e>
     <e n="EditorRight">
       <i c="169" l="1693556174338" />
@@ -133,10 +136,10 @@
       <i c="3" l="1693392486164" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="52" l="1693556231332" />
+      <i c="53" l="1693560263957" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="40" l="1693556201021" />
+      <i c="41" l="1693560222788" />
     </e>
     <e n="GitMergeBranchAction">
       <i c="13" l="1693555220665" />
@@ -226,7 +229,7 @@
       <i c="1" l="1693556523136" />
     </e>
     <e n="SaveDocument">
-      <i c="212" l="1693559884160" />
+      <i c="214" l="1693560510187" />
     </e>
     <e n="SearchEverywhere">
       <i c="24" l="1693556126927" />
@@ -250,10 +253,10 @@
       <i c="13" l="1693214590314" />
     </e>
     <e n="StepOver">
-      <i c="204" l="1693559519513" />
+      <i c="222" l="1693560029778" />
     </e>
     <e n="Stop">
-      <i c="21" l="1693559547463" />
+      <i c="23" l="1693560046115" />
     </e>
     <e n="Switcher">
       <i c="6" l="1693275230529" />
@@ -277,7 +280,7 @@
       <i c="1" l="1693536601864" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="11" l="1693555181587" />
+      <i c="12" l="1693559970988" />
     </e>
     <e n="cn.yiiguxing.plugin.translate.util.Notifications$DoNotShowAgainAction">
       <i c="1" l="1692929862693" />
@@ -340,7 +343,7 @@
       <i c="16" l="1693214559409" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="8" l="1693557177466" />
+      <i c="12" l="1693560219063" />
     </e>
     <e n="com.intellij.ide.actions.CollapseAllAction">
       <i c="1" l="1692950746343" />
@@ -367,7 +370,7 @@
       <i c="1" l="1693189150853" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="288" l="1693556185802" />
+      <i c="290" l="1693560225653" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="12" l="1693548003015" />
