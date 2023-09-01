@@ -10,7 +10,7 @@
       <i c="2" l="1693559846369" />
     </e>
     <e n="$SelectAll">
-      <i c="16" l="1693553402153" />
+      <i c="17" l="1693563194903" />
     </e>
     <e n="$Undo">
       <i c="193" l="1693561320606" />
@@ -22,7 +22,7 @@
       <i c="1" l="1693391429831" />
     </e>
     <e n="Back">
-      <i c="134" l="1693555608726" />
+      <i c="136" l="1693563764029" />
     </e>
     <e n="ChangesView.Revert">
       <i c="2" l="1693462387915" />
@@ -37,7 +37,7 @@
       <i c="8" l="1693560728022" />
     </e>
     <e n="Console.Jdbc.Execute">
-      <i c="17" l="1693553410460" />
+      <i c="18" l="1693563199315" />
     </e>
     <e n="Console.TableResult.ChooseExtractor">
       <i c="5" l="1693553412855" />
@@ -67,7 +67,7 @@
       <i c="6" l="1693472687809" />
     </e>
     <e n="Debug">
-      <i c="18" l="1693560513825" />
+      <i c="19" l="1693563849542" />
     </e>
     <e n="DebugClass">
       <i c="5" l="1693561182827" />
@@ -76,10 +76,10 @@
       <i c="3" l="1693559850141" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1565" l="1693560240819" />
+      <i c="1566" l="1693563195664" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="1263" l="1693561310933" />
+      <i c="1264" l="1693562751282" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="20" l="1693553980582" />
@@ -91,7 +91,7 @@
       <i c="30" l="1693557193033" />
     </e>
     <e n="EditorDown">
-      <i c="1113" l="1693561310621" />
+      <i c="1114" l="1693562751046" />
     </e>
     <e n="EditorEnter">
       <i c="387" l="1693557194936" />
@@ -100,10 +100,10 @@
       <i c="36" l="1693548891137" />
     </e>
     <e n="EditorPaste">
-      <i c="160" l="1693561334310" />
+      <i c="162" l="1693563196628" />
     </e>
     <e n="EditorRight">
-      <i c="169" l="1693556174338" />
+      <i c="170" l="1693562753332" />
     </e>
     <e n="EditorTab">
       <i c="5" l="1693548880946" />
@@ -151,7 +151,7 @@
       <i c="6" l="1693475057059" />
     </e>
     <e n="GotoDeclaration">
-      <i c="236" l="1693556565361" />
+      <i c="238" l="1693563125676" />
     </e>
     <e n="GotoLine">
       <i c="2" l="1693556567092" />
@@ -163,7 +163,7 @@
       <i c="1" l="1693392438100" />
     </e>
     <e n="Jdbc.OpenConsole.Any">
-      <i c="6" l="1693552965856" />
+      <i c="7" l="1693563191997" />
     </e>
     <e n="Jdbc.OpenEditor.DDL">
       <i c="2" l="1693295483677" />
@@ -232,7 +232,7 @@
       <i c="214" l="1693560510187" />
     </e>
     <e n="SearchEverywhere">
-      <i c="25" l="1693561562039" />
+      <i c="26" l="1693563720942" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="9" l="1693357867757" />
@@ -295,7 +295,7 @@
       <i c="5" l="1693553414104" />
     </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
-      <i c="34" l="1693553650324" />
+      <i c="35" l="1693562753594" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.DefaultBooleanEditorFactory$ChooseBooleanAction">
       <i c="2" l="1693468958891" />
@@ -346,7 +346,7 @@
       <i c="16" l="1693214559409" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="13" l="1693561752997" />
+      <i c="14" l="1693561809581" />
     </e>
     <e n="com.intellij.ide.actions.CollapseAllAction">
       <i c="1" l="1692950746343" />
@@ -373,7 +373,7 @@
       <i c="1" l="1693189150853" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="292" l="1693561560387" />
+      <i c="296" l="1693563695789" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="12" l="1693548003015" />
@@ -400,7 +400,7 @@
       <i c="11" l="1693468872243" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
-      <i c="252" l="1693559337559" />
+      <i c="254" l="1693563125455" />
     </e>
     <e n="com.jetbrains.rider.completion.summaryInfo.ParameterInfoListView$NextSignatureAction">
       <i c="1" l="1693294174316" />
