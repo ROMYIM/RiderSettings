@@ -13,7 +13,7 @@
       <i c="16" l="1693553402153" />
     </e>
     <e n="$Undo">
-      <i c="192" l="1693554008183" />
+      <i c="193" l="1693561320606" />
     </e>
     <e n="AddReferenceAction">
       <i c="1" l="1693391460699" />
@@ -34,7 +34,7 @@
       <i c="13" l="1693555804967" />
     </e>
     <e n="CommentByLineComment">
-      <i c="5" l="1693559337650" />
+      <i c="8" l="1693560728022" />
     </e>
     <e n="Console.Jdbc.Execute">
       <i c="17" l="1693553410460" />
@@ -70,7 +70,7 @@
       <i c="18" l="1693560513825" />
     </e>
     <e n="DebugClass">
-      <i c="3" l="1693560013092" />
+      <i c="5" l="1693561182827" />
     </e>
     <e n="EditPropertiesAction">
       <i c="3" l="1693559850141" />
@@ -79,19 +79,19 @@
       <i c="1565" l="1693560240819" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="1257" l="1693556179243" />
+      <i c="1263" l="1693561310933" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="20" l="1693553980582" />
     </e>
     <e n="EditorCopy">
-      <i c="75" l="1693560504972" />
+      <i c="78" l="1693561324901" />
     </e>
     <e n="EditorCut">
       <i c="30" l="1693557193033" />
     </e>
     <e n="EditorDown">
-      <i c="1111" l="1693556017744" />
+      <i c="1113" l="1693561310621" />
     </e>
     <e n="EditorEnter">
       <i c="387" l="1693557194936" />
@@ -100,7 +100,7 @@
       <i c="36" l="1693548891137" />
     </e>
     <e n="EditorPaste">
-      <i c="149" l="1693560509601" />
+      <i c="160" l="1693561334310" />
     </e>
     <e n="EditorRight">
       <i c="169" l="1693556174338" />
@@ -139,10 +139,10 @@
       <i c="53" l="1693560263957" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="41" l="1693560222788" />
+      <i c="42" l="1693561524929" />
     </e>
     <e n="GitMergeBranchAction">
-      <i c="13" l="1693555220665" />
+      <i c="14" l="1693561535745" />
     </e>
     <e n="GitPushBranchAction">
       <i c="1" l="1693392707182" />
@@ -205,10 +205,10 @@
       <i c="7" l="1693357480593" />
     </e>
     <e n="Resume">
-      <i c="30" l="1693468858547" />
+      <i c="31" l="1693560783680" />
     </e>
     <e n="RevealIn">
-      <i c="9" l="1693556597441" />
+      <i c="13" l="1693560807531" />
     </e>
     <e n="RiderEditSource">
       <i c="1" l="1693391875251" />
@@ -226,13 +226,13 @@
       <i c="1" l="1693294247195" />
     </e>
     <e n="RunClass">
-      <i c="1" l="1693556523136" />
+      <i c="3" l="1693561767062" />
     </e>
     <e n="SaveDocument">
       <i c="214" l="1693560510187" />
     </e>
     <e n="SearchEverywhere">
-      <i c="24" l="1693556126927" />
+      <i c="25" l="1693561562039" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="9" l="1693357867757" />
@@ -253,10 +253,10 @@
       <i c="13" l="1693214590314" />
     </e>
     <e n="StepOver">
-      <i c="222" l="1693560029778" />
+      <i c="277" l="1693561219837" />
     </e>
     <e n="Stop">
-      <i c="23" l="1693560046115" />
+      <i c="26" l="1693561285122" />
     </e>
     <e n="Switcher">
       <i c="6" l="1693275230529" />
@@ -271,7 +271,7 @@
       <i c="2" l="1693209478640" />
     </e>
     <e n="Vcs.Push">
-      <i c="11" l="1693555236710" />
+      <i c="12" l="1693561542884" />
     </e>
     <e n="Vcs.ShowHistoryForBlock">
       <i c="2" l="1693190305868" />
@@ -315,6 +315,9 @@
     <e n="com.intellij.diff.merge.MergeRequestProcessor$MyPrevDifferenceAction">
       <i c="2" l="1693273137076" />
     </e>
+    <e n="com.intellij.execution.console.ConsoleExecuteAction">
+      <i c="1" l="1693560595883" />
+    </e>
     <e n="com.intellij.execution.runners.RunTab$RunTabSupplier$1">
       <i c="1" l="1693205339598" />
     </e>
@@ -343,7 +346,7 @@
       <i c="16" l="1693214559409" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="12" l="1693560219063" />
+      <i c="13" l="1693561752997" />
     </e>
     <e n="com.intellij.ide.actions.CollapseAllAction">
       <i c="1" l="1692950746343" />
@@ -370,7 +373,7 @@
       <i c="1" l="1693189150853" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="290" l="1693560225653" />
+      <i c="292" l="1693561560387" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="12" l="1693548003015" />
@@ -406,7 +409,7 @@
       <i c="1" l="1693208724776" />
     </e>
     <e n="com.jetbrains.rider.debugger.immediateWindow.consoleImpl.ImmediateWindowConsoleImplUtilsKt$createAddWatchAction$1">
-      <i c="6" l="1693559540871" />
+      <i c="9" l="1693561274765" />
     </e>
     <e n="com.jetbrains.rider.intentions.gutterWrappers.BackendGutterMarkWrapper$getClickAction$1">
       <i c="109" l="1693547955703" />

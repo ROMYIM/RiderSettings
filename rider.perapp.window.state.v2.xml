@@ -24,6 +24,7 @@
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
+          "isActiveOnStart": true,
           "isVisible": true,
           "weight": 0.17005208,
           "sideWeight": 0.5005133
@@ -128,6 +129,7 @@
           "id": "Debug",
           "order": 4,
           "anchor": "BOTTOM",
+          "isVisible": true,
           "weight": 0.30571705
         },
         {
