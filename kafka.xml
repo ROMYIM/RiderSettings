@@ -4,17 +4,13 @@
       <map>
         <entry key="Kafka@KafkaConnections@-4282790445430699334">
           <value>
-            <KafkaClusterConfig />
-          </value>
-        </entry>
-        <entry key="Kafka@KafkaConnections@5338250990967877644">
-          <value>
-            <KafkaClusterConfig />
-          </value>
-        </entry>
-        <entry key="Kafka@KafkaConnections@7353705558230100199">
-          <value>
-            <KafkaClusterConfig />
+            <KafkaClusterConfig>
+              <option name="topicsPined">
+                <set>
+                  <option value="delivery" />
+                </set>
+              </option>
+            </KafkaClusterConfig>
           </value>
         </entry>
       </map>
