@@ -31,7 +31,7 @@
       <i c="2" l="1693389288783" />
     </e>
     <e n="CollapseAll">
-      <i c="13" l="1693555804967" />
+      <i c="14" l="1693805158441" />
     </e>
     <e n="CommentByLineComment">
       <i c="8" l="1693560728022" />
@@ -46,7 +46,7 @@
       <i c="11" l="1693556124838" />
     </e>
     <e n="Console.TableResult.Reload">
-      <i c="13" l="1693472668367" />
+      <i c="14" l="1693564159463" />
     </e>
     <e n="Console.TableResult.ShowDumpDialogAction">
       <i c="4" l="1693553415579" />
@@ -76,10 +76,10 @@
       <i c="3" l="1693559850141" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1566" l="1693563195664" />
+      <i c="1569" l="1693563911676" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="1264" l="1693562751282" />
+      <i c="1271" l="1693805235707" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="20" l="1693553980582" />
@@ -91,19 +91,19 @@
       <i c="30" l="1693557193033" />
     </e>
     <e n="EditorDown">
-      <i c="1114" l="1693562751046" />
+      <i c="1116" l="1693805235459" />
     </e>
     <e n="EditorEnter">
-      <i c="387" l="1693557194936" />
+      <i c="394" l="1693563997646" />
     </e>
     <e n="EditorLeft">
       <i c="36" l="1693548891137" />
     </e>
     <e n="EditorPaste">
-      <i c="162" l="1693563196628" />
+      <i c="166" l="1693805237186" />
     </e>
     <e n="EditorRight">
-      <i c="170" l="1693562753332" />
+      <i c="172" l="1693805237603" />
     </e>
     <e n="EditorTab">
       <i c="5" l="1693548880946" />
@@ -139,7 +139,7 @@
       <i c="53" l="1693560263957" />
     </e>
     <e n="GitCheckoutAction">
-      <i c="42" l="1693561524929" />
+      <i c="43" l="1693804950068" />
     </e>
     <e n="GitMergeBranchAction">
       <i c="14" l="1693561535745" />
@@ -205,7 +205,7 @@
       <i c="7" l="1693357480593" />
     </e>
     <e n="Resume">
-      <i c="31" l="1693560783680" />
+      <i c="35" l="1693564204383" />
     </e>
     <e n="RevealIn">
       <i c="13" l="1693560807531" />
@@ -235,7 +235,7 @@
       <i c="26" l="1693563720942" />
     </e>
     <e n="SettingsEntryPoint">
-      <i c="9" l="1693357867757" />
+      <i c="10" l="1693804980601" />
     </e>
     <e n="ShelveChanges.UnshelveWithDialog">
       <i c="2" l="1693444086693" />
@@ -253,10 +253,10 @@
       <i c="13" l="1693214590314" />
     </e>
     <e n="StepOver">
-      <i c="277" l="1693561219837" />
+      <i c="284" l="1693564196143" />
     </e>
     <e n="Stop">
-      <i c="26" l="1693561285122" />
+      <i c="27" l="1693804957081" />
     </e>
     <e n="Switcher">
       <i c="6" l="1693275230529" />
@@ -265,7 +265,7 @@
       <i c="3" l="1693213074821" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="27" l="1693556810293" />
+      <i c="28" l="1693564028296" />
     </e>
     <e n="Tree-selectChild">
       <i c="2" l="1693209478640" />
@@ -280,7 +280,7 @@
       <i c="1" l="1693536601864" />
     </e>
     <e n="Vcs.UpdateProject">
-      <i c="12" l="1693559970988" />
+      <i c="13" l="1693804961855" />
     </e>
     <e n="cn.yiiguxing.plugin.translate.util.Notifications$DoNotShowAgainAction">
       <i c="1" l="1692929862693" />
@@ -295,7 +295,7 @@
       <i c="5" l="1693553414104" />
     </e>
     <e n="com.intellij.database.run.ui.grid.GridEditorPanelBase$ApplyAction">
-      <i c="35" l="1693562753594" />
+      <i c="36" l="1693805237835" />
     </e>
     <e n="com.intellij.database.run.ui.grid.editors.DefaultBooleanEditorFactory$ChooseBooleanAction">
       <i c="2" l="1693468958891" />
@@ -343,13 +343,16 @@
       <i c="7" l="1693388660128" />
     </e>
     <e n="com.intellij.httpClient.http.request.run.v2.HttpRequestRunSplitButtonOnGutterAction">
-      <i c="16" l="1693214559409" />
+      <i c="17" l="1693564034271" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
       <i c="14" l="1693561809581" />
     </e>
     <e n="com.intellij.ide.actions.CollapseAllAction">
       <i c="1" l="1692950746343" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerMain$3">
+      <i c="1" l="1693805276445" />
     </e>
     <e n="com.intellij.microservices.ui.FilterValueAction">
       <i c="1" l="1693464469725" />
@@ -364,7 +367,7 @@
       <i c="13" l="1693463717887" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="43" l="1693472648711" />
+      <i c="44" l="1693564043518" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="18" l="1693555749170" />
@@ -372,8 +375,11 @@
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="1" l="1693189150853" />
     </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
+      <i c="1" l="1693804982367" />
+    </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="296" l="1693563695789" />
+      <i c="297" l="1693805221834" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="12" l="1693548003015" />
@@ -382,7 +388,7 @@
       <i c="2" l="1693213184407" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="51" l="1693559553054" />
+      <i c="53" l="1693804955770" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
       <i c="5" l="1693546422805" />
@@ -397,7 +403,7 @@
       <i c="2" l="1693554383935" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="11" l="1693468872243" />
+      <i c="14" l="1693564052446" />
     </e>
     <e n="com.jetbrains.rider.actions.RiderAsyncBackendDelegatingActionPromoter$FallbackBackendAction">
       <i c="254" l="1693563125455" />
