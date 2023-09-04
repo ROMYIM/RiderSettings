@@ -1,0 +1,231 @@
+<application>
+  <component name="RiderPerAppToolWindowLayoutV2"><![CDATA[{
+  "layouts": {
+    "Custom": {
+      "v2": [
+        {
+          "id": "Space Code Reviews"
+        },
+        {
+          "id": "Bookmarks",
+          "isSplit": true
+        },
+        {
+          "id": "Merge Requests"
+        },
+        {
+          "id": "Pull Requests"
+        },
+        {
+          "id": "Learn",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "weight": 0.20234375,
+          "sideWeight": 0.5005133
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.20234375
+        },
+        {
+          "id": "Azure Explorer",
+          "order": 4,
+          "weight": 0.16848958,
+          "sideWeight": 0.49948665,
+          "isSplit": true
+        },
+        {
+          "id": "Database",
+          "order": 6,
+          "weight": 0.20234375,
+          "sideWeight": 0.49948665
+        },
+        {
+          "id": "Database Changes",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "TypeScript",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Build",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Dynamic Program Analysis",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "TODO",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Unit Tests",
+          "anchor": "BOTTOM",
+          "weight": 0.30571705
+        },
+        {
+          "id": "dotTrace Profiler",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "File Transfer",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "NuGet",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "dotMemory Profiler",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM",
+          "weight": 0.30571705
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM",
+          "weight": 0.30571705
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.32994187
+        },
+        {
+          "id": "Logcat",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.32994187
+        },
+        {
+          "id": "Debug",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.30571705
+        },
+        {
+          "id": "KafkaToolWindow",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.30571705
+        },
+        {
+          "id": "Unit Tests Coverage",
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Endpoints",
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "IL Viewer",
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "BigDataToolWindow",
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "documentation.v2",
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "Layout Validation",
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Meet New UI",
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "Notifications",
+          "order": 0,
+          "anchor": "RIGHT",
+          "weight": 0.14609376
+        },
+        {
+          "id": "AIAssistant",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Gradle",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Structure",
+          "order": 4,
+          "anchor": "RIGHT",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.1627604,
+          "sideWeight": 0.49948665
+        },
+        {
+          "id": "Maven",
+          "order": 5,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Json Parser",
+          "order": 5,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Kafkalytic",
+          "order": 5,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Translation.Wordbook",
+          "order": 5,
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "Device Manager",
+          "order": 5,
+          "anchor": "RIGHT"
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.20234375,
+        "bottom": 0.30571705,
+        "right": 0.1627604
+      }
+    }
+  }
+}]]></component>
+</application>
