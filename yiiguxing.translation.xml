@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1699924588249" />
+    <option name="lastTrimTime" value="1700719642774" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -10,6 +10,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="Is Concrete" />
       <item value="A derived type that should be supported in polymorphic serialization of the declared based type." />
       <item value="Closes the connection to the database. This is the preferred method of closing any open connection." />
       <item value="Determines whether an instance of a specified type c can be assigned to a variable of the current type." />
@@ -26,7 +27,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
