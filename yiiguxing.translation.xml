@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1700719642774" />
+    <option name="lastTrimTime" value="1701739832155" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
@@ -10,6 +10,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="The IMAP server has unexpectedly disconnected." />
       <item value="Automatically and periodically commit offsets in the background. Note: setting this to false does not prevent the consumer from fetching previously committed start offsets. To circumvent this behaviour set specific start offsets per partition in the call to assign(). default: true importance: high" />
       <item value="Is Concrete" />
       <item value="A derived type that should be supported in polymorphic serialization of the declared based type." />
@@ -28,7 +29,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
