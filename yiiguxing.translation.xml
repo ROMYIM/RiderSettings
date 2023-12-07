@@ -2,14 +2,12 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1701739832155" />
   </component>
-  <component name="Translation.Settings">
-    <option name="translator" value="MICROSOFT" />
-  </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="447" />
     <histories>
+      <item value="because it contains an object field at offset 0 that is incorrectly aligned or overlapped by a non-object field." />
       <item value="The IMAP server has unexpectedly disconnected." />
       <item value="Automatically and periodically commit offsets in the background. Note: setting this to false does not prevent the consumer from fetching previously committed start offsets. To circumvent this behaviour set specific start offsets per partition in the call to assign(). default: true importance: high" />
       <item value="Is Concrete" />
@@ -29,7 +27,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
